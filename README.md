@@ -7,10 +7,10 @@ Happy Coding!
 Skills: SQL | Python | R | SAQL | SOQL | Qlik | SAS | Machine Learning
 
 - 🔭 I’m currently working on Several Data Projects 
-- 🌱 I’m currently learning Salesforce | Transformers 
-- 💬 Ask me about CRM Analytics | Data Science 
+- 🌱 I’m currently learning LLMs | A2A | MCP | AI/ML Devops!
+- 💬 Ask me about Data Management, Governance, Analytics, Data Science and AI!
 - 📫 How to reach me: Github Page or Linkedin 
-- ⚡ Fun fact: Veteran 
+- ⚡ Fun fact: Military Veteran, Oenophile, Tech Geek
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josers18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jsifontes/)  
