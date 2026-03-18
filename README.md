@@ -126,6 +126,9 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
   <a href="https://github.com/josers18/Salesforce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
+  <a href="https://github.com/josers18/Python-Data-Structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Data-Structures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
 </p>
 
 ---
