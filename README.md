@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=29B5E8&center=true&vCenter=true&width=680&lines=Senior+Solutions+Engineer+%40+Salesforce;Data+Science+%26+ML+Practitioner;Building+with+Python+%7C+R+%7C+SQL+%7C+Snowflake;Military+Veteran+%F0%9F%87%BA%F0%9F%87%B8+%7C+Oenophile+%F0%9F%8D%B7+%7C+Tech+Geek+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=29B5E8&center=true&vCenter=true&width=720&lines=Distinguished+Technical+Architect+%40+Salesforce;Data+%26+AI+Leader+%7C+ML+Practitioner;Building+with+Python+%7C+R+%7C+SQL+%7C+Snowflake;Military+Veteran+%F0%9F%87%BA%F0%9F%87%B8+%7C+Oenophile+%F0%9F%8D%B7+%7C+Tech+Geek+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Solutions Engineer at Salesforce** with deep roots in data — from wrangling raw datasets to deploying ML models in production. I hold an **M.S. in Data Science from Northwestern University** and bring a rare combination of technical depth and customer-facing consultative experience across the data and AI space.
+I'm a **Distinguished Technical Architect on Data and AI at Salesforce** with deep roots in data — from wrangling raw datasets to deploying ML models in production. I hold an **M.S. in Data Science from Northwestern University** and an **M.S. in Data Engineering from WGU** and bring a rare combination of technical depth and customer-facing consultative experience across the data and AI space.
 
 Before tech, I served in the **U.S. Military**, which shaped my approach to problem solving: methodical, high-stakes, and mission-first. I'm fluent in **English and Spanish**, based in **Miami, FL**, and equally at home in a Jupyter notebook and a customer discovery call.
 
@@ -129,6 +129,7 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 | Credential | Issuer |
 |---|---|
 | M.S. Data Science | Northwestern University |
+| M.S. Data Engineering | Western Governors University |
 | Google Analytics Individual Qualification | Google |
 | Data Scientist with R | DataCamp |
 | Data Analyst with R | DataCamp |
