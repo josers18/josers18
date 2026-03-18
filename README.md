@@ -63,6 +63,17 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
+**AI & LLM Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white&label=LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white&label=ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white&label=Pinecone" />
+</p>
+
 **Cloud, Platforms & Databases**
 
 <p>
