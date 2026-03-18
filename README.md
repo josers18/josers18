@@ -133,6 +133,22 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Data-Structures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/josers18/LangChain-Concepts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=LangChain-Concepts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/josers18/OpenAI-API-Tutorial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=OpenAI-API-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/josers18/Python-Programming-Concepts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Programming-Concepts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/josers18/Git-Tutorial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Git-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+</p>
 
 ---
 
