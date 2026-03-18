@@ -126,6 +126,8 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 
 ## 🎓 Education & Certifications
 
+> A selection of credentials — including Salesforce certifications and more. Full list on [LinkedIn](https://www.linkedin.com/in/jsifontes).
+
 | Credential | Issuer |
 |---|---|
 | M.S. Data Science | Northwestern University |
