@@ -13,6 +13,9 @@
   <a href="https://github.com/josers18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://analyticsmadesimple.com">
+    <img src="https://img.shields.io/badge/Blog-analyticsmadesimple.com-29B5E8?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=josers18&style=for-the-badge&color=29B5E8&label=PROFILE+VIEWS" />
 </p>
 
@@ -30,6 +33,7 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 | 🌱 **Exploring** | LLMs, Agent-to-Agent (A2A) protocols, MCP, AI/ML DevOps |
 | 💬 **Ask me about** | Data Science, ML, Data Governance, Analytics Engineering |
 | 🌎 **Languages** | English, Spanish |
+| ✍️ **Blog** | [analyticsmadesimple.com](https://analyticsmadesimple.com) |
 | 🎖️ **Fun fact** | Military veteran, oenophile, and permanent resident of the rabbit hole |
 
 ---
@@ -95,6 +99,19 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 
 ---
 
+## ✍️ Writing & Articles
+
+> Published on [LinkedIn](https://www.linkedin.com/in/jsifontes) · More at [analyticsmadesimple.com](https://analyticsmadesimple.com)
+
+| Article | Date |
+|---|---|
+| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://www.linkedin.com/in/jsifontes) | Jan 2024 |
+| [Data Governance 101](https://www.linkedin.com/in/jsifontes) | Nov 2023 |
+| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://www.linkedin.com/in/jsifontes) | Sep 2023 |
+| [Getting Up to Speed on Vector Databases](https://www.linkedin.com/in/jsifontes) | Sep 2023 |
+
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -126,6 +143,7 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 | Data Analyst with R | DataCamp |
 | R Programming in Data Science: High Volume Data | LinkedIn Learning |
 | MCP — Microsoft Certified Professional | Microsoft |
+| MCTS — Windows 7 | Microsoft |
 | Exam 413: Designing & Implementing Server Infrastructure | Microsoft |
 | IT Operations Specialist | CompTIA |
 | A+ | CompTIA |
