@@ -16,6 +16,9 @@
   <a href="https://analyticsmadesimple.com">
     <img src="https://img.shields.io/badge/Blog-analyticsmadesimple.com-29B5E8?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://josers18.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-josers18.github.io-0062CC?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=josers18&style=for-the-badge&color=29B5E8&label=PROFILE+VIEWS" />
 </p>
 
