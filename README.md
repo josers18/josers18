@@ -46,7 +46,7 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,js,bash,scala&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,bash,scala&theme=dark" />
 </p>
 
 **Data, ML & Analytics**
@@ -67,8 +67,11 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white&label=LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white&label=MCP" />
+  <img src="https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white&label=ChromaDB" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white&label=Pinecone" />
@@ -77,11 +80,20 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 **Cloud, Platforms & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,heroku,mongodb&theme=dark" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau%20Next-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku%20Inference-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+</p>
+
+**Frontend & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel&theme=dark" />
 </p>
 
 **Tools**
@@ -95,20 +107,20 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josers18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&v=20260318" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josers18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=c9d1d9&langs_count=8&v=20260318" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josers18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&v=20260506" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josers18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=c9d1d9&langs_count=8&v=20260506" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20260318" />
+  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20260506" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josers18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&v=20260318" />
+  <img src="https://github-profile-trophy.vercel.app/?username=josers18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&v=20260506" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20260318" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20260506" />
 </p>
 
 ---
@@ -129,27 +141,35 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/josers18/D360-Financial-Transaction-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=D360-Financial-Transaction-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  <a href="https://github.com/josers18/Headless-JDO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Headless-JDO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/josers18/Salesforce-Data-360-MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data-360-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  <a href="https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data360-Financial-Transaction-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/josers18/Salesforce-Data360-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data360-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
   <a href="https://github.com/josers18/Salesforce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/josers18/Python-Data-Structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Data-Structures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
 </p>
 <p align="center">
+  <a href="https://github.com/josers18/JDO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=JDO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
   <a href="https://github.com/josers18/LangChain-Concepts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=LangChain-Concepts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/josers18/OpenAI-API-Tutorial">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=OpenAI-API-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/josers18/Python-Data-Structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Data-Structures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
