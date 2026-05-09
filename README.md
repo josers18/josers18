@@ -99,7 +99,9 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/OAuth_2.1-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/PKCE-4B32C3?style=flat-square&logoColor=white&label=PKCE" />
 </p>
 
 ---
@@ -107,20 +109,20 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josers18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&v=20260506" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josers18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=c9d1d9&langs_count=8&v=20260506" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josers18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&v=20260508" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josers18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=c9d1d9&langs_count=8&v=20260508" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20260506" />
+  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20260508" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josers18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&v=20260506" />
+  <img src="https://github-profile-trophy.vercel.app/?username=josers18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&v=20260508" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20260506" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20260508" />
 </p>
 
 ---
@@ -143,6 +145,14 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 <p align="center">
   <a href="https://github.com/josers18/Headless-JDO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Headless-JDO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/josers18/Data360-Hosted-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Data360-Hosted-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/josers18/Token-Comparison-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Token-Comparison-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data360-Financial-Transaction-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
