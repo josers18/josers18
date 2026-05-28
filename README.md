@@ -51,6 +51,85 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 
 ---
 
+## 🧭 What I Build
+
+> The recurring shape across most of my work — agentic, conversation-first UIs talking to enterprise data through MCP. Click any node to jump to a representative repo.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui, -apple-system'}}}%%
+flowchart LR
+    %% ── Personas ──────────────────────────────────────────────
+    Banker([🧑‍💼 Relationship Banker]):::persona
+    Customer([👤 End Customer]):::persona
+
+    %% ── Apps / Surfaces ───────────────────────────────────────
+    subgraph SURFACE["🖥️ Conversational Surfaces"]
+        direction TB
+        Horizon["<b>Horizon</b><br/><i>Headless-JDO</i><br/>Next.js · TypeScript"]:::app
+        Sim["<b>Transaction Simulator</b><br/><i>Data360 Fin Sim</i><br/>Python"]:::app
+        Token["<b>Token Comparison Tool</b><br/>FastAPI · OAuth 2.1 + PKCE"]:::app
+    end
+
+    %% ── Agent / Orchestration ────────────────────────────────
+    subgraph BRAIN["🧠 Agent Layer"]
+        direction TB
+        Claude{{"<b>Claude Sonnet</b><br/>tool-calling LLM"}}:::agent
+        Agentforce(["<b>Agentforce</b><br/>topics · actions · guardrails"]):::agent
+    end
+
+    %% ── MCP fabric ────────────────────────────────────────────
+    subgraph MCP_LAYER["🔌 Model Context Protocol"]
+        direction TB
+        HostedMCP["<b>Data360-Hosted-MCP</b><br/>Heroku · SSE + stdio<br/>43 tools / 16 families"]:::mcp
+        RefMCP["<b>Salesforce-Data360-MCP</b><br/>reference impl"]:::mcp
+    end
+
+    %% ── Platform / Data ───────────────────────────────────────
+    subgraph PLATFORM["🗄️ Salesforce Platform & Data"]
+        direction TB
+        CRM[("Salesforce CRM<br/>accounts · cases · ops")]:::data
+        DC[("Data 360 / Data Cloud<br/>unified profile · CIs")]:::data
+        TN[("Tableau Next<br/>analytics surface")]:::data
+        Snow[("Snowflake<br/>warehoused signal")]:::data
+    end
+
+    %% ── Edges ─────────────────────────────────────────────────
+    Banker --> Horizon
+    Customer --> Sim
+    Banker -. "benchmarking" .-> Token
+
+    Horizon --> Claude
+    Sim --> Claude
+    Token --> Claude
+
+    Claude <==> Agentforce
+    Claude --> HostedMCP
+    Claude --> RefMCP
+    Agentforce --> HostedMCP
+
+    HostedMCP --> CRM
+    HostedMCP --> DC
+    HostedMCP --> TN
+    HostedMCP --> Snow
+    RefMCP --> DC
+
+    %% ── Styling (dark fills + white text — readable on both GitHub themes) ──
+    classDef persona fill:#0A2540,stroke:#cfe8ff,stroke-width:1.5px,color:#ffffff
+    classDef app     fill:#0062CC,stroke:#9CD7FF,stroke-width:1.5px,color:#ffffff
+    classDef agent   fill:#1C3C3C,stroke:#D97757,stroke-width:2px,color:#ffffff
+    classDef mcp     fill:#00A1E0,stroke:#0A2540,stroke-width:1.5px,color:#ffffff
+    classDef data    fill:#29B5E8,stroke:#0A2540,stroke-width:1.5px,color:#0A2540
+
+    %% ── Click-throughs to representative repos ──
+    click Horizon "https://github.com/josers18/Headless-JDO" "Horizon — headless banker UI"
+    click Sim "https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator" "Financial transaction simulator"
+    click Token "https://github.com/josers18/Token-Comparison-Tool" "Token Comparison Tool"
+    click HostedMCP "https://github.com/josers18/Data360-Hosted-MCP" "Hosted Data 360 MCP server"
+    click RefMCP "https://github.com/josers18/Salesforce-Data360-MCP" "Reference Data 360 MCP impl"
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
