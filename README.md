@@ -129,88 +129,90 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 
 ## ✍️ Writing & Articles
 
-> Published on [LinkedIn](https://www.linkedin.com/in/jsifontes) · More at [analyticsmadesimple.com](https://analyticsmadesimple.com)
+> Published on [LinkedIn](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) · More at [analyticsmadesimple.com](https://analyticsmadesimple.com)
+
+### 📌 Featured Articles
+
+<!-- TODO: replace these LinkedIn-articles-tab URLs with the real article permalinks -->
 
 | Article | Date |
 |---|---|
-| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://www.linkedin.com/in/jsifontes) | Jan 2024 |
-| [Data Governance 101](https://www.linkedin.com/in/jsifontes) | Nov 2023 |
-| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://www.linkedin.com/in/jsifontes) | Sep 2023 |
-| [Getting Up to Speed on Vector Databases](https://www.linkedin.com/in/jsifontes) | Sep 2023 |
+| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Jan 2024 |
+| [Data Governance 101](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Nov 2023 |
+| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Sep 2023 |
+| [Getting Up to Speed on Vector Databases](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Sep 2023 |
+
+### 📰 Latest from analyticsmadesimple.com
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/josers18/Headless-JDO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Headless-JDO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/Data360-Hosted-MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Data360-Hosted-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/josers18/Token-Comparison-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Token-Comparison-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data360-Financial-Transaction-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/josers18/Salesforce-Data360-MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce-Data360-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/Salesforce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Salesforce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/josers18/JDO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=JDO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/LangChain-Concepts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=LangChain-Concepts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/josers18/OpenAI-API-Tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=OpenAI-API-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/Python-Data-Structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Data-Structures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/josers18/Python-Programming-Concepts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Python-Programming-Concepts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/josers18/Git-Tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josers18&repo=Git-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9" />
-  </a>
-</p>
+> A curated set of work focused on **Salesforce Data 360, Agentforce, and MCP**. Full repo list on [my GitHub](https://github.com/josers18?tab=repositories).
+
+| Project | What it does |
+|---|---|
+| **[Horizon — Headless-JDO](https://github.com/josers18/Headless-JDO)** <br/> `TypeScript · Next.js · MCP · Claude` | Headless home page for the relationship banker. Claude Sonnet orchestrates Salesforce CRM, Data Cloud, and Tableau Next MCP servers behind a no-navigation, conversation-first UI. |
+| **[Data360-Hosted-MCP](https://github.com/josers18/Data360-Hosted-MCP)** <br/> `JavaScript · Heroku · MCP` | Salesforce Data 360 / Data Cloud MCP server with **43 tools across 16 families** — Heroku-hosted, dual-transport (SSE + stdio), with read-only and destructive-action guardrails. |
+| **[Salesforce-Data360-MCP](https://github.com/josers18/Salesforce-Data360-MCP)** <br/> `Python · MCP · ⭐ 1` | Quick-start setup and demo for implementing MCP against Salesforce Data 360 (Data Cloud) — the reference implementation for the hosted variant above. |
+| **[Token-Comparison-Tool](https://github.com/josers18/Token-Comparison-Tool)** <br/> `Python · FastAPI · OAuth 2.1` | Benchmark token cost: Salesforce native (`sf` CLI) vs Salesforce-hosted MCP servers. OAuth 2.1 + PKCE, free-format prompts, PDF export. |
+| **[Data360 Financial Transaction Simulator](https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator)** <br/> `Python · Snowflake · Data Cloud` | Financial transaction simulator with overdraft prevention, balance tracking, and Salesforce Data Cloud / Snowflake integration. |
+| **[Salesforce](https://github.com/josers18/Salesforce)** <br/> `Python · ⭐ 5` | Long-running grab-bag of Salesforce-related code, snippets, and experiments — most-starred repo on this profile. |
+| **[JDO — Jose's Demo Org](https://github.com/josers18/JDO)** <br/> `Salesforce DX · Apex · LWC` | Assets and Salesforce DX projects for demo orgs: LWCs, Apex, flows, docs, and related demos. |
+
+<details>
+<summary>📚 <b>Reference & Learning Repos</b> (click to expand)</summary>
+
+| Project | What it does |
+|---|---|
+| **[LangChain-Concepts](https://github.com/josers18/LangChain-Concepts)** | Reference guide for building LLM apps with LangChain — prompt templates, LCEL chains, agents, tools, RAG pipelines. |
+| **[OpenAI-API-Tutorial](https://github.com/josers18/OpenAI-API-Tutorial)** | Reference guide for the OpenAI API, Hugging Face Transformers, embeddings, semantic search, ChromaDB, and Pinecone. |
+| **[Python-Data-Structures](https://github.com/josers18/Python-Data-Structures)** | Personal reference for Python DS&A — Big O, linked lists, stacks, queues, trees, graphs, sorting, DP. |
+| **[Python-Programming-Concepts](https://github.com/josers18/Python-Programming-Concepts)** | Reference guide for Python — OOP, error handling, testing with pytest and unittest. |
+| **[Git-Tutorial](https://github.com/josers18/Git-Tutorial)** | Personal Git reference — init, branching, merging, remotes, stashing, tags. |
+
+</details>
 
 ---
 
 ## 🎓 Education & Certifications
 
-> A selection of credentials — including Salesforce certifications and more. Full list on [LinkedIn](https://www.linkedin.com/in/jsifontes).
+> A selection of credentials. Full list on [LinkedIn](https://www.linkedin.com/in/jsifontes).
+
+**🎓 Education**
 
 | Credential | Issuer |
 |---|---|
 | M.S. Data Science | Northwestern University |
 | M.S. Data Engineering | Western Governors University |
+
+**📊 Data, Analytics & AI**
+
+| Credential | Issuer |
+|---|---|
 | Google Analytics Individual Qualification | Google |
 | Data Scientist with R | DataCamp |
 | Data Analyst with R | DataCamp |
 | R Programming in Data Science: High Volume Data | LinkedIn Learning |
+
+<details>
+<summary>🛠️ <b>IT & Infrastructure Foundations</b> (click to expand)</summary>
+
+| Credential | Issuer |
+|---|---|
 | MCP — Microsoft Certified Professional | Microsoft |
 | MCTS — Windows 7 | Microsoft |
 | Exam 413: Designing & Implementing Server Infrastructure | Microsoft |
 | IT Operations Specialist | CompTIA |
 | A+ | CompTIA |
 | Network+ | CompTIA |
+
+</details>
 
 ---
 
