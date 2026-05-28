@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0062CC,50:29B5E8,100:00A1E0&height=220&section=header&text=Jose%20Sifontes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Engineering%20%7C%20AI&descAlignY=58&descSize=22&descColor=e0f4ff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0062CC,100:29B5E8&height=220&section=header&text=Jose%20Sifontes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Engineering%20%7C%20AI&descAlignY=58&descSize=22&descColor=cfe8ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:29B5E8,100:9CD7FF&height=220&section=header&text=Jose%20Sifontes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Engineering%20%7C%20AI&descAlignY=58&descSize=22&descColor=ffffff" />
+  <img width="100%" alt="Jose Sifontes — Data Science | Engineering | AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:0062CC,50:29B5E8,100:00A1E0&height=220&section=header&text=Jose%20Sifontes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Engineering%20%7C%20AI&descAlignY=58&descSize=22&descColor=e0f4ff" />
+</picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
