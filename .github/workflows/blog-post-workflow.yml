@@ -13,9 +13,11 @@ jobs:
     name: Update README with latest analyticsmadesimple.com posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # Third-party actions pinned to full commit SHAs for supply-chain safety.
+      # Bump comments alongside the SHA so the version stays auditable.
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: Pull in posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1 / 1.9.6
         with:
           feed_list: "https://analyticsmadesimple.com/feed/"
           max_post_count: 5
