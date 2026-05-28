@@ -56,7 +56,7 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 > The recurring shape across most of my work — agentic, conversation-first UIs talking to enterprise data through MCP. Click any node to jump to a representative repo.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui, -apple-system'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui, -apple-system','background':'#0D1117','primaryColor':'#0D1117','primaryTextColor':'#E6EDF3','primaryBorderColor':'#21262D','lineColor':'#7D8590','clusterBkg':'#161B22','clusterBorder':'#21262D','titleColor':'#29B5E8','edgeLabelBackground':'#161B22','tertiaryColor':'#0D1117','tertiaryTextColor':'#E6EDF3','tertiaryBorderColor':'#21262D'}}}%%
 flowchart LR
     %% ── Personas ──────────────────────────────────────────────
     Banker([🧑‍💼 Relationship Banker]):::persona
