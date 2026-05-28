@@ -19,7 +19,6 @@
   <a href="https://josers18.github.io">
     <img src="https://img.shields.io/badge/Portfolio-josers18.github.io-0062CC?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=josers18&style=for-the-badge&color=29B5E8&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -109,20 +108,24 @@ Before tech, I served in the **U.S. Military**, which shaped my approach to prob
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josers18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&v=20260508" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josers18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=29B5E8&text_color=c9d1d9&langs_count=8&v=20260508" />
+  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20260508" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF" />
 </p>
 
+<!--
+  Snake animation below is generated daily by .github/workflows/snake.yml
+  and pushed to the `output` branch as an SVG. The README references it
+  directly from this repo — no third-party render-time dependency.
+-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josers18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&v=20260508" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20260508" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josers18/josers18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josers18/josers18/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/josers18/josers18/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
