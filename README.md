@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [The Analytics Loop](https://analyticsmadesimple.com/analytics/the-analytics-loop/) <sub>(Jul 22, 2026)</sub>- [Data vs Information vs Insight](https://analyticsmadesimple.com/analytics/data-vs-information-vs-insight/) <sub>(Jul 22, 2026)</sub>- [What Problem Are We Actually Solving?](https://analyticsmadesimple.com/analytics/what-problem-are-we-actually-solving/) <sub>(Jul 21, 2026)</sub>- [How to Check AI-Written SQL Before You Ship It](https://analyticsmadesimple.com/tutorials/how-to-check-ai-written-sql/) <sub>(Jul 18, 2026)</sub>- [SQL Tutorial 13: Strategies for Maintenance and Optimization](https://analyticsmadesimple.com/tutorials/sql/sql-tutorial-13-strategies-for-maintenance-and-optimization/) <sub>(Nov 10, 2024)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Good enough vs perfect data](https://analyticsmadesimple.com/analytics/good-enough-vs-perfect-data/) <sub>(Jul 22, 2026)</sub>- [The Analytics Loop](https://analyticsmadesimple.com/analytics/the-analytics-loop/) <sub>(Jul 22, 2026)</sub>- [Data vs Information vs Insight](https://analyticsmadesimple.com/analytics/data-vs-information-vs-insight/) <sub>(Jul 22, 2026)</sub>- [What Problem Are We Actually Solving?](https://analyticsmadesimple.com/analytics/what-problem-are-we-actually-solving/) <sub>(Jul 21, 2026)</sub>- [How to Check AI-Written SQL Before You Ship It](https://analyticsmadesimple.com/tutorials/how-to-check-ai-written-sql/) <sub>(Jul 18, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
