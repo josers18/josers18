@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [How to write a one-page analytics brief](https://analyticsmadesimple.com/analytics/how-to-write-a-one-page-analytics-brief/) <sub>(Jul 24, 2026)</sub>- [Reading a number like an adult](https://analyticsmadesimple.com/analytics/reading-a-number-like-an-adult/) <sub>(Jul 23, 2026)</sub>- [Good enough vs perfect data](https://analyticsmadesimple.com/analytics/good-enough-vs-perfect-data/) <sub>(Jul 22, 2026)</sub>- [The Analytics Loop](https://analyticsmadesimple.com/analytics/the-analytics-loop/) <sub>(Jul 22, 2026)</sub>- [Data vs Information vs Insight](https://analyticsmadesimple.com/analytics/data-vs-information-vs-insight/) <sub>(Jul 22, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [What ChatGPT is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-chatgpt-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [What Claude is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-claude-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [Common analytics traps](https://analyticsmadesimple.com/analytics/common-analytics-traps/) <sub>(Jul 25, 2026)</sub>- [How to write a one-page analytics brief](https://analyticsmadesimple.com/analytics/how-to-write-a-one-page-analytics-brief/) <sub>(Jul 24, 2026)</sub>- [Reading a number like an adult](https://analyticsmadesimple.com/analytics/reading-a-number-like-an-adult/) <sub>(Jul 23, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
