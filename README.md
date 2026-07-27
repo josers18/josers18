@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [What ChatGPT is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-chatgpt-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [What Claude is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-claude-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [Common analytics traps](https://analyticsmadesimple.com/analytics/common-analytics-traps/) <sub>(Jul 25, 2026)</sub>- [How to write a one-page analytics brief](https://analyticsmadesimple.com/analytics/how-to-write-a-one-page-analytics-brief/) <sub>(Jul 24, 2026)</sub>- [Reading a number like an adult](https://analyticsmadesimple.com/analytics/reading-a-number-like-an-adult/) <sub>(Jul 23, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Free, Go, Plus, Pro, Business, Enterprise without hype](https://analyticsmadesimple.com/tutorials/chatgpt-free-go-plus-pro-business-enterprise/) <sub>(Jul 26, 2026)</sub>- [Free vs Pro vs Max: what you actually get](https://analyticsmadesimple.com/tutorials/claude-free-vs-pro-vs-max/) <sub>(Jul 26, 2026)</sub>- [When a spreadsheet becomes a liability](https://analyticsmadesimple.com/analytics/when-a-spreadsheet-becomes-a-liability/) <sub>(Jul 26, 2026)</sub>- [What ChatGPT is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-chatgpt-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [What Claude is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-claude-is-plain-english/) <sub>(Jul 25, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
