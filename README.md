@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Free, Go, Plus, Pro, Business, Enterprise without hype](https://analyticsmadesimple.com/tutorials/chatgpt-free-go-plus-pro-business-enterprise/) <sub>(Jul 26, 2026)</sub>- [Free vs Pro vs Max: what you actually get](https://analyticsmadesimple.com/tutorials/claude-free-vs-pro-vs-max/) <sub>(Jul 26, 2026)</sub>- [When a spreadsheet becomes a liability](https://analyticsmadesimple.com/analytics/when-a-spreadsheet-becomes-a-liability/) <sub>(Jul 26, 2026)</sub>- [What ChatGPT is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-chatgpt-is-plain-english/) <sub>(Jul 25, 2026)</sub>- [What Claude is &lpar;plain English&rpar;](https://analyticsmadesimple.com/tutorials/what-claude-is-plain-english/) <sub>(Jul 25, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Grok app and web: first 30 minutes](https://analyticsmadesimple.com/tutorials/learn-grok-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Web and mobile: first 30 minutes](https://analyticsmadesimple.com/tutorials/chatgpt-web-mobile-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Claude on web and mobile: first 30 minutes](https://analyticsmadesimple.com/tutorials/claude-web-mobile-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Tables, not freeform cells](https://analyticsmadesimple.com/analytics/tables-not-freeform-cells/) <sub>(Jul 27, 2026)</sub>- [Grok.com, mobile apps, and Grok inside X](https://analyticsmadesimple.com/tutorials/learn-grok-com-apps-inside-x/) <sub>(Jul 26, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
