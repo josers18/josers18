@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Grok app and web: first 30 minutes](https://analyticsmadesimple.com/tutorials/learn-grok-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Web and mobile: first 30 minutes](https://analyticsmadesimple.com/tutorials/chatgpt-web-mobile-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Claude on web and mobile: first 30 minutes](https://analyticsmadesimple.com/tutorials/claude-web-mobile-first-30-minutes/) <sub>(Jul 27, 2026)</sub>- [Tables, not freeform cells](https://analyticsmadesimple.com/analytics/tables-not-freeform-cells/) <sub>(Jul 27, 2026)</sub>- [Grok.com, mobile apps, and Grok inside X](https://analyticsmadesimple.com/tutorials/learn-grok-com-apps-inside-x/) <sub>(Jul 26, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Strengths, limits, and personality without mythology](https://analyticsmadesimple.com/tutorials/learn-grok-strengths-limits-personality/) <sub>(Jul 28, 2026)</sub>- [Desktop app: Chat, Work, and Codex in one place](https://analyticsmadesimple.com/tutorials/chatgpt-desktop-chat-work-codex/) <sub>(Jul 28, 2026)</sub>- [Chats, Projects, files, and Research](https://analyticsmadesimple.com/tutorials/claude-chats-projects-files-research/) <sub>(Jul 28, 2026)</sub>- [Keys, IDs, and joining in plain English](https://analyticsmadesimple.com/analytics/keys-ids-and-joining-in-plain-english/) <sub>(Jul 28, 2026)</sub>- [Grok app and web: first 30 minutes](https://analyticsmadesimple.com/tutorials/learn-grok-first-30-minutes/) <sub>(Jul 27, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
