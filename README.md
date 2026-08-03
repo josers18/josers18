@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Privacy, work rules, and when not to use it](https://analyticsmadesimple.com/tutorials/chatgpt-privacy-work-rules-when-not/) <sub>(Aug 01, 2026)</sub>- [When Claude is the wrong tool](https://analyticsmadesimple.com/tutorials/when-claude-is-the-wrong-tool/) <sub>(Aug 01, 2026)</sub>- [Why Python for analytics &lpar;and when to stay in SQL or Sheets&rpar;](https://analyticsmadesimple.com/analytics/why-python-for-analytics/) <sub>(Aug 01, 2026)</sub>- [When Grok is the wrong tool](https://analyticsmadesimple.com/tutorials/learn-grok-when-wrong-tool/) <sub>(Jul 31, 2026)</sub>- [Connectors and apps &lpar;Drive, calendars, etc.&rpar;](https://analyticsmadesimple.com/tutorials/chatgpt-connectors-apps-drive-calendars/) <sub>(Jul 31, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Chat vs Work vs Codex](https://analyticsmadesimple.com/tutorials/chatgpt-chat-vs-work-vs-codex/) <sub>(Aug 02, 2026)</sub>- [Claude.ai chat vs everything else](https://analyticsmadesimple.com/tutorials/claude-ai-chat-vs-everything-else/) <sub>(Aug 02, 2026)</sub>- [Setup without tears](https://analyticsmadesimple.com/analytics/python-setup-without-tears/) <sub>(Aug 02, 2026)</sub>- [Privacy, work rules, and when not to use it](https://analyticsmadesimple.com/tutorials/chatgpt-privacy-work-rules-when-not/) <sub>(Aug 01, 2026)</sub>- [When Claude is the wrong tool](https://analyticsmadesimple.com/tutorials/when-claude-is-the-wrong-tool/) <sub>(Aug 01, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
