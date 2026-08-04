@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Chat vs Work vs Codex](https://analyticsmadesimple.com/tutorials/chatgpt-chat-vs-work-vs-codex/) <sub>(Aug 02, 2026)</sub>- [Claude.ai chat vs everything else](https://analyticsmadesimple.com/tutorials/claude-ai-chat-vs-everything-else/) <sub>(Aug 02, 2026)</sub>- [Setup without tears](https://analyticsmadesimple.com/analytics/python-setup-without-tears/) <sub>(Aug 02, 2026)</sub>- [Privacy, work rules, and when not to use it](https://analyticsmadesimple.com/tutorials/chatgpt-privacy-work-rules-when-not/) <sub>(Aug 01, 2026)</sub>- [When Claude is the wrong tool](https://analyticsmadesimple.com/tutorials/when-claude-is-the-wrong-tool/) <sub>(Aug 01, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Custom GPTs vs plain chat](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpts-vs-plain-chat/) <sub>(Aug 03, 2026)</sub>- [Claude Code: what it is for](https://analyticsmadesimple.com/tutorials/claude-code-what-it-is-for/) <sub>(Aug 03, 2026)</sub>- [DataFrames as tables](https://analyticsmadesimple.com/analytics/dataframes-as-tables/) <sub>(Aug 03, 2026)</sub>- [Chat vs Work vs Codex](https://analyticsmadesimple.com/tutorials/chatgpt-chat-vs-work-vs-codex/) <sub>(Aug 02, 2026)</sub>- [Claude.ai chat vs everything else](https://analyticsmadesimple.com/tutorials/claude-ai-chat-vs-everything-else/) <sub>(Aug 02, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
