@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Custom GPTs vs plain chat](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpts-vs-plain-chat/) <sub>(Aug 03, 2026)</sub>- [Claude Code: what it is for](https://analyticsmadesimple.com/tutorials/claude-code-what-it-is-for/) <sub>(Aug 03, 2026)</sub>- [DataFrames as tables](https://analyticsmadesimple.com/analytics/dataframes-as-tables/) <sub>(Aug 03, 2026)</sub>- [Chat vs Work vs Codex](https://analyticsmadesimple.com/tutorials/chatgpt-chat-vs-work-vs-codex/) <sub>(Aug 02, 2026)</sub>- [Claude.ai chat vs everything else](https://analyticsmadesimple.com/tutorials/claude-ai-chat-vs-everything-else/) <sub>(Aug 02, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Models chooser in plain English](https://analyticsmadesimple.com/tutorials/chatgpt-models-chooser-plain-english/) <sub>(Aug 04, 2026)</sub>- [Claude Cowork: what it is for](https://analyticsmadesimple.com/tutorials/claude-cowork-what-it-is-for/) <sub>(Aug 04, 2026)</sub>- [Selecting, filtering, and sorting in pandas](https://analyticsmadesimple.com/analytics/pandas-select-filter-sort/) <sub>(Aug 04, 2026)</sub>- [Custom GPTs vs plain chat](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpts-vs-plain-chat/) <sub>(Aug 03, 2026)</sub>- [Claude Code: what it is for](https://analyticsmadesimple.com/tutorials/claude-code-what-it-is-for/) <sub>(Aug 03, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
