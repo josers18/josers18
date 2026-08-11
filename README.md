@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Studying and explaining hard topics simply](https://analyticsmadesimple.com/tutorials/chatgpt-studying-hard-topics-simply/) <sub>(Aug 09, 2026)</sub>- [Talking to a codebase: ask, explore, change](https://analyticsmadesimple.com/tutorials/claude-code-talking-to-a-codebase/) <sub>(Aug 09, 2026)</sub>- [Export results and hand off](https://analyticsmadesimple.com/analytics/pandas-export-and-hand-off/) <sub>(Aug 09, 2026)</sub>- [Long docs and multi-file work](https://analyticsmadesimple.com/tutorials/chatgpt-long-docs-multi-file-work/) <sub>(Aug 08, 2026)</sub>- [Install / open Claude Code and first run](https://analyticsmadesimple.com/tutorials/claude-code-install-and-first-run/) <sub>(Aug 08, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Storytelling that gets senior trust](https://analyticsmadesimple.com/analytics/storytelling-that-gets-senior-trust/) <sub>(Aug 11, 2026)</sub>- [Email, meetings, and workplace writing](https://analyticsmadesimple.com/tutorials/chatgpt-email-meetings-workplace-writing/) <sub>(Aug 10, 2026)</sub>- [Slash commands and common command patterns](https://analyticsmadesimple.com/tutorials/claude-code-slash-commands-patterns/) <sub>(Aug 10, 2026)</sub>- [Python and SQL together](https://analyticsmadesimple.com/analytics/python-and-sql-together/) <sub>(Aug 10, 2026)</sub>- [Studying and explaining hard topics simply](https://analyticsmadesimple.com/tutorials/chatgpt-studying-hard-topics-simply/) <sub>(Aug 09, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
