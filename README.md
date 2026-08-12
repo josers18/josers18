@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Storytelling that gets senior trust](https://analyticsmadesimple.com/analytics/storytelling-that-gets-senior-trust/) <sub>(Aug 11, 2026)</sub>- [Email, meetings, and workplace writing](https://analyticsmadesimple.com/tutorials/chatgpt-email-meetings-workplace-writing/) <sub>(Aug 10, 2026)</sub>- [Slash commands and common command patterns](https://analyticsmadesimple.com/tutorials/claude-code-slash-commands-patterns/) <sub>(Aug 10, 2026)</sub>- [Python and SQL together](https://analyticsmadesimple.com/analytics/python-and-sql-together/) <sub>(Aug 10, 2026)</sub>- [Studying and explaining hard topics simply](https://analyticsmadesimple.com/tutorials/chatgpt-studying-hard-topics-simply/) <sub>(Aug 09, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [First agentic task with approvals](https://analyticsmadesimple.com/tutorials/chatgpt-work-first-agentic-task-approvals/) <sub>(Aug 12, 2026)</sub>- [Memory and context: what sticks, what resets](https://analyticsmadesimple.com/tutorials/claude-code-memory-and-context/) <sub>(Aug 12, 2026)</sub>- [Notebooks vs scripts for teammates](https://analyticsmadesimple.com/analytics/notebooks-vs-scripts/) <sub>(Aug 12, 2026)</sub>- [What Work mode is for](https://analyticsmadesimple.com/tutorials/chatgpt-work-mode-what-it-is-for/) <sub>(Aug 11, 2026)</sub>- [Skills: what they are, how to add and use](https://analyticsmadesimple.com/tutorials/claude-code-skills-add-and-use/) <sub>(Aug 11, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
