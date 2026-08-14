@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [First agentic task with approvals](https://analyticsmadesimple.com/tutorials/chatgpt-work-first-agentic-task-approvals/) <sub>(Aug 12, 2026)</sub>- [Memory and context: what sticks, what resets](https://analyticsmadesimple.com/tutorials/claude-code-memory-and-context/) <sub>(Aug 12, 2026)</sub>- [Notebooks vs scripts for teammates](https://analyticsmadesimple.com/analytics/notebooks-vs-scripts/) <sub>(Aug 12, 2026)</sub>- [What Work mode is for](https://analyticsmadesimple.com/tutorials/chatgpt-work-mode-what-it-is-for/) <sub>(Aug 11, 2026)</sub>- [Skills: what they are, how to add and use](https://analyticsmadesimple.com/tutorials/claude-code-skills-add-and-use/) <sub>(Aug 11, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Multi-step jobs and checking results](https://analyticsmadesimple.com/tutorials/chatgpt-work-multi-step-jobs-checking-results/) <sub>(Aug 13, 2026)</sub>- [Markdown and project instruction files &lpar;CLAUDE.md, AGENTS.md, and friends&rpar;](https://analyticsmadesimple.com/tutorials/claude-code-claude-md-agents-md/) <sub>(Aug 13, 2026)</sub>- [What bad data actually means](https://analyticsmadesimple.com/analytics/what-bad-data-actually-means/) <sub>(Aug 13, 2026)</sub>- [First agentic task with approvals](https://analyticsmadesimple.com/tutorials/chatgpt-work-first-agentic-task-approvals/) <sub>(Aug 12, 2026)</sub>- [Memory and context: what sticks, what resets](https://analyticsmadesimple.com/tutorials/claude-code-memory-and-context/) <sub>(Aug 12, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
