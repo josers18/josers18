@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Open coding features and first project](https://analyticsmadesimple.com/tutorials/chatgpt-codex-open-coding-first-project/) <sub>(Aug 15, 2026)</sub>- [Loops and agentic runs: multi-step work](https://analyticsmadesimple.com/tutorials/claude-code-loops-agentic-runs/) <sub>(Aug 15, 2026)</sub>- [Deduping without destroying history](https://analyticsmadesimple.com/analytics/deduping-without-destroying-history/) <sub>(Aug 15, 2026)</sub>- [When Work beats Chat &lpar;and when it does not&rpar;](https://analyticsmadesimple.com/tutorials/chatgpt-work-vs-chat-when-each-wins/) <sub>(Aug 14, 2026)</sub>- [Plugins, connectors, and tools](https://analyticsmadesimple.com/tutorials/claude-code-plugins-connectors-tools/) <sub>(Aug 14, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Exploring a repo safely](https://analyticsmadesimple.com/tutorials/chatgpt-codex-exploring-repo-safely/) <sub>(Aug 16, 2026)</sub>- [Reviewing diffs, undoing, not shipping blind](https://analyticsmadesimple.com/tutorials/claude-code-reviewing-diffs-not-shipping-blind/) <sub>(Aug 16, 2026)</sub>- [Standardizing categories and names](https://analyticsmadesimple.com/analytics/standardizing-categories-and-names/) <sub>(Aug 16, 2026)</sub>- [Open coding features and first project](https://analyticsmadesimple.com/tutorials/chatgpt-codex-open-coding-first-project/) <sub>(Aug 15, 2026)</sub>- [Loops and agentic runs: multi-step work](https://analyticsmadesimple.com/tutorials/claude-code-loops-agentic-runs/) <sub>(Aug 15, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
