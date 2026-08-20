@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Review, tests, and not trusting green checkmarks](https://analyticsmadesimple.com/tutorials/chatgpt-codex-review-tests-green-checkmarks/) <sub>(Aug 18, 2026)</sub>- [Cowork vs chat vs Claude Code](https://analyticsmadesimple.com/tutorials/claude-cowork-vs-chat-vs-code/) <sub>(Aug 18, 2026)</sub>- [Validation checks you can automate](https://analyticsmadesimple.com/analytics/validation-checks-you-can-automate/) <sub>(Aug 18, 2026)</sub>- [Skills, tasks, and scheduled help &lpar;as product offers&rpar;](https://analyticsmadesimple.com/tutorials/chatgpt-codex-skills-tasks-scheduled-help/) <sub>(Aug 17, 2026)</sub>- [Team habits and safety rails](https://analyticsmadesimple.com/tutorials/claude-code-team-habits-safety-rails/) <sub>(Aug 17, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Build a simple GPT for a repeating task](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-build-simple-repeating-task/) <sub>(Aug 20, 2026)</sub>- [Working on folders, docs, and spreadsheets](https://analyticsmadesimple.com/tutorials/claude-cowork-folders-docs-spreadsheets/) <sub>(Aug 20, 2026)</sub>- [What is this chart for?](https://analyticsmadesimple.com/analytics/what-is-this-chart-for/) <sub>(Aug 20, 2026)</sub>- [Git-friendly habits for beginners](https://analyticsmadesimple.com/tutorials/chatgpt-codex-git-friendly-habits-beginners/) <sub>(Aug 19, 2026)</sub>- [Setup and first real file task](https://analyticsmadesimple.com/tutorials/claude-cowork-setup-first-file-task/) <sub>(Aug 19, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
