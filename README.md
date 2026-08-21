@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Build a simple GPT for a repeating task](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-build-simple-repeating-task/) <sub>(Aug 20, 2026)</sub>- [Working on folders, docs, and spreadsheets](https://analyticsmadesimple.com/tutorials/claude-cowork-folders-docs-spreadsheets/) <sub>(Aug 20, 2026)</sub>- [What is this chart for?](https://analyticsmadesimple.com/analytics/what-is-this-chart-for/) <sub>(Aug 20, 2026)</sub>- [Git-friendly habits for beginners](https://analyticsmadesimple.com/tutorials/chatgpt-codex-git-friendly-habits-beginners/) <sub>(Aug 19, 2026)</sub>- [Setup and first real file task](https://analyticsmadesimple.com/tutorials/claude-cowork-setup-first-file-task/) <sub>(Aug 19, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Accounts, payments, and Free vs paid without hype](https://analyticsmadesimple.com/tutorials/ai-setup-accounts-free-vs-paid/) <sub>(Aug 20, 2026)</sub>- [What open means: weights, license, not a free lunch](https://analyticsmadesimple.com/tutorials/what-open-means-ai-weights-license/) <sub>(Aug 20, 2026)</sub>- [Grok chat, Build, Imagine, and the API: pick a surface](https://analyticsmadesimple.com/tutorials/grok-chat-build-imagine-api/) <sub>(Aug 20, 2026)</sub>- [I just want help with writing and questions](https://analyticsmadesimple.com/tutorials/ai-for-writing-and-questions/) <sub>(Aug 20, 2026)</sub>- [Choosing a model for work &lpar;not hype&rpar;](https://analyticsmadesimple.com/tutorials/choosing-a-model-for-work/) <sub>(Aug 20, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
