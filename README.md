@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Power BI starter: measures that match the question](https://analyticsmadesimple.com/analytics/power-bi-starter-measures/) <sub>(Aug 22, 2026)</sub>- [Peeking, guardrails, and stopping rules](https://analyticsmadesimple.com/analytics/peeking-guardrails-stopping-rules/) <sub>(Aug 22, 2026)</sub>- [Catalogs and where is the truth?](https://analyticsmadesimple.com/data-management/catalogs-and-where-is-the-truth/) <sub>(Aug 22, 2026)</sub>- [Multimodal AI for charts and screenshots](https://analyticsmadesimple.com/tutorials/multimodal-ai-charts-screenshots/) <sub>(Aug 22, 2026)</sub>- [Share with a team without creating chaos](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-share-team-without-chaos/) <sub>(Aug 22, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How to ask better data questions in meetings](https://analyticsmadesimple.com/analytics/better-data-questions-in-meetings/) <sub>(Aug 23, 2026)</sub>- [dbt lab: first models and tests](https://analyticsmadesimple.com/data-engineering/dbt-lab-first-models-and-tests/) <sub>(Aug 23, 2026)</sub>- [Conversion math without magic](https://analyticsmadesimple.com/analytics/conversion-math-without-magic/) <sub>(Aug 23, 2026)</sub>- [Warehouses vs lakes vs just a database](https://analyticsmadesimple.com/analytics/warehouses-lakes-vs-database/) <sub>(Aug 23, 2026)</sub>- [I want help coding or building software](https://analyticsmadesimple.com/tutorials/ai-for-coding-and-building-software/) <sub>(Aug 23, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
