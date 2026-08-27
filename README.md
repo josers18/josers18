@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Leading vs lagging indicators](https://analyticsmadesimple.com/analytics/leading-vs-lagging-indicators/) <sub>(Aug 25, 2026)</sub>- [Reproducibility for solo analysts](https://analyticsmadesimple.com/analytics/reproducibility-for-solo-analysts/) <sub>(Aug 25, 2026)</sub>- [The analysis PR checklist](https://analyticsmadesimple.com/analytics/analysis-pr-checklist/) <sub>(Aug 25, 2026)</sub>- [Power BI starter: publish, share, and trust](https://analyticsmadesimple.com/analytics/power-bi-starter-publish-share-trust/) <sub>(Aug 25, 2026)</sub>- [Maps that inform without misleading](https://analyticsmadesimple.com/analytics/maps-that-inform-without-misleading/) <sub>(Aug 25, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Hosted open models vs download to your machine](https://analyticsmadesimple.com/tutorials/hosted-open-models-vs-download-to-your-machine/) <sub>(Aug 27, 2026)</sub>- [Grok models chooser: 4.5, 4.6, and when to switch](https://analyticsmadesimple.com/tutorials/grok-models-chooser-4-5-4-6/) <sub>(Aug 27, 2026)</sub>- [Definitions and metric specs](https://analyticsmadesimple.com/analytics/definitions-and-metric-specs/) <sub>(Aug 27, 2026)</sub>- [What is an embedding?](https://analyticsmadesimple.com/key-terms/what-is-an-embedding/) <sub>(Aug 27, 2026)</sub>- [What is a feature store?](https://analyticsmadesimple.com/key-terms/what-is-a-feature-store/) <sub>(Aug 27, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
