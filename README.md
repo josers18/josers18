@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Hosted open models vs download to your machine](https://analyticsmadesimple.com/tutorials/hosted-open-models-vs-download-to-your-machine/) <sub>(Aug 27, 2026)</sub>- [Grok models chooser: 4.5, 4.6, and when to switch](https://analyticsmadesimple.com/tutorials/grok-models-chooser-4-5-4-6/) <sub>(Aug 27, 2026)</sub>- [Definitions and metric specs](https://analyticsmadesimple.com/analytics/definitions-and-metric-specs/) <sub>(Aug 27, 2026)</sub>- [What is an embedding?](https://analyticsmadesimple.com/key-terms/what-is-an-embedding/) <sub>(Aug 27, 2026)</sub>- [What is a feature store?](https://analyticsmadesimple.com/key-terms/what-is-a-feature-store/) <sub>(Aug 27, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Orchestration in one metaphor](https://analyticsmadesimple.com/analytics/orchestration-in-one-metaphor/) <sub>(Aug 28, 2026)</sub>- [Prompt patterns for data work](https://analyticsmadesimple.com/tutorials/prompt-patterns-for-data-work/) <sub>(Aug 28, 2026)</sub>- [Quality control and avoiding workslop](https://analyticsmadesimple.com/tutorials/claude-cowork-quality-control-workslop/) <sub>(Aug 28, 2026)</sub>- [Dashboards vs single slides](https://analyticsmadesimple.com/analytics/dashboards-vs-single-slides/) <sub>(Aug 28, 2026)</sub>- [Fine-tuning vs RAG](https://analyticsmadesimple.com/key-terms/fine-tuning-vs-rag/) <sub>(Aug 28, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
