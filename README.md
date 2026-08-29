@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Orchestration in one metaphor](https://analyticsmadesimple.com/analytics/orchestration-in-one-metaphor/) <sub>(Aug 28, 2026)</sub>- [Prompt patterns for data work](https://analyticsmadesimple.com/tutorials/prompt-patterns-for-data-work/) <sub>(Aug 28, 2026)</sub>- [Quality control and avoiding workslop](https://analyticsmadesimple.com/tutorials/claude-cowork-quality-control-workslop/) <sub>(Aug 28, 2026)</sub>- [Dashboards vs single slides](https://analyticsmadesimple.com/analytics/dashboards-vs-single-slides/) <sub>(Aug 28, 2026)</sub>- [Fine-tuning vs RAG](https://analyticsmadesimple.com/key-terms/fine-tuning-vs-rag/) <sub>(Aug 28, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [When a Custom GPT is the wrong solution](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-when-wrong-solution/) <sub>(Aug 29, 2026)</sub>- [North Star vs team scorecards](https://analyticsmadesimple.com/analytics/north-star-vs-team-scorecards/) <sub>(Aug 29, 2026)</sub>- [Orchestration in one metaphor](https://analyticsmadesimple.com/analytics/orchestration-in-one-metaphor/) <sub>(Aug 28, 2026)</sub>- [Prompt patterns for data work](https://analyticsmadesimple.com/tutorials/prompt-patterns-for-data-work/) <sub>(Aug 28, 2026)</sub>- [Quality control and avoiding workslop](https://analyticsmadesimple.com/tutorials/claude-cowork-quality-control-workslop/) <sub>(Aug 28, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
