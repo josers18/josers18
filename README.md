@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [When a Custom GPT is the wrong solution](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-when-wrong-solution/) <sub>(Aug 29, 2026)</sub>- [North Star vs team scorecards](https://analyticsmadesimple.com/analytics/north-star-vs-team-scorecards/) <sub>(Aug 29, 2026)</sub>- [Orchestration in one metaphor](https://analyticsmadesimple.com/analytics/orchestration-in-one-metaphor/) <sub>(Aug 28, 2026)</sub>- [Prompt patterns for data work](https://analyticsmadesimple.com/tutorials/prompt-patterns-for-data-work/) <sub>(Aug 28, 2026)</sub>- [Quality control and avoiding workslop](https://analyticsmadesimple.com/tutorials/claude-cowork-quality-control-workslop/) <sub>(Aug 28, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Inclusive metrics and whose story is missing](https://analyticsmadesimple.com/analytics/inclusive-metrics-whose-story-is-missing/) <sub>(Aug 29, 2026)</sub>- [Handling a data incident](https://analyticsmadesimple.com/data-management/handling-a-data-incident/) <sub>(Aug 29, 2026)</sub>- [Prompt injection for data people](https://analyticsmadesimple.com/tutorials/prompt-injection-for-data-people/) <sub>(Aug 29, 2026)</sub>- [When a Custom GPT is the wrong solution](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-when-wrong-solution/) <sub>(Aug 29, 2026)</sub>- [North Star vs team scorecards](https://analyticsmadesimple.com/analytics/north-star-vs-team-scorecards/) <sub>(Aug 29, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
