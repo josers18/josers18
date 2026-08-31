@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Inclusive metrics and whose story is missing](https://analyticsmadesimple.com/analytics/inclusive-metrics-whose-story-is-missing/) <sub>(Aug 29, 2026)</sub>- [Handling a data incident](https://analyticsmadesimple.com/data-management/handling-a-data-incident/) <sub>(Aug 29, 2026)</sub>- [Prompt injection for data people](https://analyticsmadesimple.com/tutorials/prompt-injection-for-data-people/) <sub>(Aug 29, 2026)</sub>- [When a Custom GPT is the wrong solution](https://analyticsmadesimple.com/tutorials/chatgpt-custom-gpt-when-wrong-solution/) <sub>(Aug 29, 2026)</sub>- [North Star vs team scorecards](https://analyticsmadesimple.com/analytics/north-star-vs-team-scorecards/) <sub>(Aug 29, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Uncertainty and confidence in plain English](https://analyticsmadesimple.com/analytics/uncertainty-and-confidence-plain-english/) <sub>(Aug 31, 2026)</sub>- [Retention, deletion, and we might need it someday](https://analyticsmadesimple.com/data-management/retention-deletion-we-might-need-it-someday/) <sub>(Aug 31, 2026)</sub>- [Evals for humans](https://analyticsmadesimple.com/tutorials/evals-for-humans/) <sub>(Aug 31, 2026)</sub>- [What is a semantic layer?](https://analyticsmadesimple.com/key-terms/what-is-a-semantic-layer/) <sub>(Aug 30, 2026)</sub>- [Building a portfolio that gets interviews](https://analyticsmadesimple.com/analytics/portfolio-that-gets-interviews/) <sub>(Aug 30, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
