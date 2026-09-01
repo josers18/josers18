@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Uncertainty and confidence in plain English](https://analyticsmadesimple.com/analytics/uncertainty-and-confidence-plain-english/) <sub>(Aug 31, 2026)</sub>- [Retention, deletion, and we might need it someday](https://analyticsmadesimple.com/data-management/retention-deletion-we-might-need-it-someday/) <sub>(Aug 31, 2026)</sub>- [Evals for humans](https://analyticsmadesimple.com/tutorials/evals-for-humans/) <sub>(Aug 31, 2026)</sub>- [What is a semantic layer?](https://analyticsmadesimple.com/key-terms/what-is-a-semantic-layer/) <sub>(Aug 30, 2026)</sub>- [Building a portfolio that gets interviews](https://analyticsmadesimple.com/analytics/portfolio-that-gets-interviews/) <sub>(Aug 30, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Gaming, Goodhart, and unintended incentives](https://analyticsmadesimple.com/analytics/gaming-goodhart-unintended-incentives/) <sub>(Aug 31, 2026)</sub>- [The annotation habit](https://analyticsmadesimple.com/analytics/the-annotation-habit/) <sub>(Aug 31, 2026)</sub>- [Uncertainty and confidence in plain English](https://analyticsmadesimple.com/analytics/uncertainty-and-confidence-plain-english/) <sub>(Aug 31, 2026)</sub>- [Retention, deletion, and we might need it someday](https://analyticsmadesimple.com/data-management/retention-deletion-we-might-need-it-someday/) <sub>(Aug 31, 2026)</sub>- [Evals for humans](https://analyticsmadesimple.com/tutorials/evals-for-humans/) <sub>(Aug 31, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
