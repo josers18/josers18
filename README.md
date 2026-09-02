@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Gaming, Goodhart, and unintended incentives](https://analyticsmadesimple.com/analytics/gaming-goodhart-unintended-incentives/) <sub>(Aug 31, 2026)</sub>- [The annotation habit](https://analyticsmadesimple.com/analytics/the-annotation-habit/) <sub>(Aug 31, 2026)</sub>- [Uncertainty and confidence in plain English](https://analyticsmadesimple.com/analytics/uncertainty-and-confidence-plain-english/) <sub>(Aug 31, 2026)</sub>- [Retention, deletion, and we might need it someday](https://analyticsmadesimple.com/data-management/retention-deletion-we-might-need-it-someday/) <sub>(Aug 31, 2026)</sub>- [Evals for humans](https://analyticsmadesimple.com/tutorials/evals-for-humans/) <sub>(Aug 31, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Grok in Outlook, Word, Excel, and Workspace &lpar;light&rpar;](https://analyticsmadesimple.com/tutorials/grok-outlook-office-workspace-light/) <sub>(Sep 01, 2026)</sub>- [Review cadence that works](https://analyticsmadesimple.com/analytics/metric-review-cadence/) <sub>(Sep 01, 2026)</sub>- [Common chart crimes &lpar;and fixes&rpar;](https://analyticsmadesimple.com/analytics/common-chart-crimes-and-fixes/) <sub>(Sep 01, 2026)</sub>- [Experiment review meetings that decide](https://analyticsmadesimple.com/analytics/experiment-review-meetings-that-decide/) <sub>(Sep 01, 2026)</sub>- [Environments: dev, stage, and prod](https://analyticsmadesimple.com/analytics/environments-dev-stage-prod/) <sub>(Sep 01, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
