@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Grok in Outlook, Word, Excel, and Workspace &lpar;light&rpar;](https://analyticsmadesimple.com/tutorials/grok-outlook-office-workspace-light/) <sub>(Sep 01, 2026)</sub>- [Review cadence that works](https://analyticsmadesimple.com/analytics/metric-review-cadence/) <sub>(Sep 01, 2026)</sub>- [Common chart crimes &lpar;and fixes&rpar;](https://analyticsmadesimple.com/analytics/common-chart-crimes-and-fixes/) <sub>(Sep 01, 2026)</sub>- [Experiment review meetings that decide](https://analyticsmadesimple.com/analytics/experiment-review-meetings-that-decide/) <sub>(Sep 01, 2026)</sub>- [Environments: dev, stage, and prod](https://analyticsmadesimple.com/analytics/environments-dev-stage-prod/) <sub>(Sep 01, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Synthetic data: when fake data is the ethical choice](https://analyticsmadesimple.com/data-management/synthetic-data-ethical-choice/) <sub>(Sep 02, 2026)</sub>- [xAI Console and API: only if you build apps](https://analyticsmadesimple.com/tutorials/grok-console-api-only-if-you-build/) <sub>(Sep 02, 2026)</sub>- [Gemini in Gmail, Docs, Sheets, and Drive](https://analyticsmadesimple.com/tutorials/learn-gemini-gmail-docs-sheets-drive/) <sub>(Sep 02, 2026)</sub>- [Team and enterprise notes](https://analyticsmadesimple.com/tutorials/claude-cowork-team-enterprise-notes/) <sub>(Sep 02, 2026)</sub>- [Cohorts for customer analytics](https://analyticsmadesimple.com/analytics/cohorts-for-customer-analytics/) <sub>(Sep 02, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
