@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Synthetic data: when fake data is the ethical choice](https://analyticsmadesimple.com/data-management/synthetic-data-ethical-choice/) <sub>(Sep 02, 2026)</sub>- [xAI Console and API: only if you build apps](https://analyticsmadesimple.com/tutorials/grok-console-api-only-if-you-build/) <sub>(Sep 02, 2026)</sub>- [Gemini in Gmail, Docs, Sheets, and Drive](https://analyticsmadesimple.com/tutorials/learn-gemini-gmail-docs-sheets-drive/) <sub>(Sep 02, 2026)</sub>- [Team and enterprise notes](https://analyticsmadesimple.com/tutorials/claude-cowork-team-enterprise-notes/) <sub>(Sep 02, 2026)</sub>- [Cohorts for customer analytics](https://analyticsmadesimple.com/analytics/cohorts-for-customer-analytics/) <sub>(Sep 02, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Working with Legal and Security without panic](https://analyticsmadesimple.com/data-management/working-with-legal-security-without-panic/) <sub>(Sep 03, 2026)</sub>- [RAG in plain English](https://analyticsmadesimple.com/tutorials/rag-in-plain-english/) <sub>(Sep 03, 2026)</sub>- [I care about privacy and running things myself](https://analyticsmadesimple.com/tutorials/ai-privacy-run-it-yourself/) <sub>(Sep 03, 2026)</sub>- [Grok for writing, explaining, and brainstorming](https://analyticsmadesimple.com/tutorials/grok-writing-explaining-brainstorming/) <sub>(Sep 03, 2026)</sub>- [Photos, screenshots, PDFs, and multimodal basics](https://analyticsmadesimple.com/tutorials/learn-gemini-photos-screenshots-pdfs-multimodal/) <sub>(Sep 03, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
