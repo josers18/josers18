@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Working with Legal and Security without panic](https://analyticsmadesimple.com/data-management/working-with-legal-security-without-panic/) <sub>(Sep 03, 2026)</sub>- [RAG in plain English](https://analyticsmadesimple.com/tutorials/rag-in-plain-english/) <sub>(Sep 03, 2026)</sub>- [I care about privacy and running things myself](https://analyticsmadesimple.com/tutorials/ai-privacy-run-it-yourself/) <sub>(Sep 03, 2026)</sub>- [Grok for writing, explaining, and brainstorming](https://analyticsmadesimple.com/tutorials/grok-writing-explaining-brainstorming/) <sub>(Sep 03, 2026)</sub>- [Photos, screenshots, PDFs, and multimodal basics](https://analyticsmadesimple.com/tutorials/learn-gemini-photos-screenshots-pdfs-multimodal/) <sub>(Sep 03, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Observability for pipelines](https://analyticsmadesimple.com/analytics/observability-for-pipelines/) <sub>(Sep 04, 2026)</sub>- [Agents, tools, and harnesses](https://analyticsmadesimple.com/tutorials/agents-tools-and-harnesses/) <sub>(Sep 04, 2026)</sub>- [I want images, voice, or live answers](https://analyticsmadesimple.com/tutorials/ai-images-voice-live-answers/) <sub>(Sep 04, 2026)</sub>- [Grok live answers: how to verify before you send](https://analyticsmadesimple.com/tutorials/grok-live-answers-how-to-verify/) <sub>(Sep 04, 2026)</sub>- [Privacy and Workspace admin basics for normal users](https://analyticsmadesimple.com/tutorials/learn-gemini-privacy-workspace-admin-basics/) <sub>(Sep 04, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
