@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Observability for pipelines](https://analyticsmadesimple.com/analytics/observability-for-pipelines/) <sub>(Sep 04, 2026)</sub>- [Agents, tools, and harnesses](https://analyticsmadesimple.com/tutorials/agents-tools-and-harnesses/) <sub>(Sep 04, 2026)</sub>- [I want images, voice, or live answers](https://analyticsmadesimple.com/tutorials/ai-images-voice-live-answers/) <sub>(Sep 04, 2026)</sub>- [Grok live answers: how to verify before you send](https://analyticsmadesimple.com/tutorials/grok-live-answers-how-to-verify/) <sub>(Sep 04, 2026)</sub>- [Privacy and Workspace admin basics for normal users](https://analyticsmadesimple.com/tutorials/learn-gemini-privacy-workspace-admin-basics/) <sub>(Sep 04, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Cohort retention charts without lying](https://analyticsmadesimple.com/analytics/cohort-retention-charts-without-lying/) <sub>(Sep 05, 2026)</sub>- [Privacy when pasting data into chat tools](https://analyticsmadesimple.com/tutorials/privacy-when-pasting-data-into-chat-tools/) <sub>(Sep 05, 2026)</sub>- [Which AI product should I try first](https://analyticsmadesimple.com/tutorials/which-ai-product-try-this-first/) <sub>(Sep 05, 2026)</sub>- [Grok threads and projects: habits that survive a messy week](https://analyticsmadesimple.com/tutorials/grok-threads-projects-habits/) <sub>(Sep 05, 2026)</sub>- [When Gemini is the wrong tool](https://analyticsmadesimple.com/tutorials/learn-gemini-when-wrong-tool/) <sub>(Sep 05, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
