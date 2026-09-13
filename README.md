@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Autonomy levels: watch, approve, walk away](https://analyticsmadesimple.com/tutorials/agent-autonomy-watch-approve-walk-away/) <sub>(Sep 11, 2026)</sub>- [Uploading docs safely](https://analyticsmadesimple.com/tutorials/ai-uploading-docs-safely/) <sub>(Sep 11, 2026)</sub>- [When to stop prompting and do the task yourself](https://analyticsmadesimple.com/tutorials/prompting-when-to-stop-and-do-it-yourself/) <sub>(Sep 11, 2026)</sub>- [Grok Build review, rollback, and safety rails](https://analyticsmadesimple.com/tutorials/grok-build-review-rollback-safety/) <sub>(Sep 11, 2026)</sub>- [First week of useful tasks with Gemini](https://analyticsmadesimple.com/tutorials/gemini-everyday-first-week-useful-tasks/) <sub>(Sep 11, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [School, work honesty, and citations](https://analyticsmadesimple.com/tutorials/ai-safety-school-work-honesty-citations/) <sub>(Sep 12, 2026)</sub>- [Loops, retries, and runaway tasks](https://analyticsmadesimple.com/tutorials/agent-loops-retries-runaway-tasks/) <sub>(Sep 12, 2026)</sub>- [Where did my file go, across tools](https://analyticsmadesimple.com/tutorials/ai-where-did-my-file-go/) <sub>(Sep 12, 2026)</sub>- [Grok Imagine: text to image from zero](https://analyticsmadesimple.com/tutorials/grok-imagine-text-to-image-from-zero/) <sub>(Sep 12, 2026)</sub>- [Research, planning, and writing with Gemini](https://analyticsmadesimple.com/tutorials/gemini-everyday-research-planning-writing/) <sub>(Sep 12, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
