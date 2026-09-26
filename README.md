@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [What is Qwen?](https://analyticsmadesimple.com/tutorials/what-qwen-is-alibaba-model-family/) <sub>(Sep 24, 2026)</sub>- [When a full IDE agent is overkill](https://analyticsmadesimple.com/tutorials/gemini-coding-when-full-agent-overkill/) <sub>(Sep 24, 2026)</sub>- [What is DeepSeek?](https://analyticsmadesimple.com/tutorials/what-deepseek-is-products-and-open-models/) <sub>(Sep 23, 2026)</sub>- [Quotas, editions, and why it stopped](https://analyticsmadesimple.com/tutorials/gemini-coding-quotas-editions-why-stopped/) <sub>(Sep 23, 2026)</sub>- [Jev and TypeSafe AI: Inside the First System One Model and RLCD Training](https://analyticsmadesimple.com/tutorials/jev-typesafe-ai-system-one-model-rlcd-tutorial/) <sub>(Sep 22, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [What is Kimi? Moonshot’s model family in plain English](https://analyticsmadesimple.com/tutorials/what-kimi-is-moonshot-plain-english/) <sub>(Sep 25, 2026)</sub>- [What is Qwen?](https://analyticsmadesimple.com/tutorials/what-qwen-is-alibaba-model-family/) <sub>(Sep 24, 2026)</sub>- [When a full IDE agent is overkill](https://analyticsmadesimple.com/tutorials/gemini-coding-when-full-agent-overkill/) <sub>(Sep 24, 2026)</sub>- [What is DeepSeek?](https://analyticsmadesimple.com/tutorials/what-deepseek-is-products-and-open-models/) <sub>(Sep 23, 2026)</sub>- [Quotas, editions, and why it stopped](https://analyticsmadesimple.com/tutorials/gemini-coding-quotas-editions-why-stopped/) <sub>(Sep 23, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
