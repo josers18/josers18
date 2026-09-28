@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [License and can I use this at work?](https://analyticsmadesimple.com/tutorials/llama-license-can-i-use-this-at-work/) <sub>(Sep 27, 2026)</sub>- [What is GLM? Zhipu’s ChatGLM model family](https://analyticsmadesimple.com/tutorials/what-glm-is-zhipu-chatglm-family/) <sub>(Sep 26, 2026)</sub>- [What is Kimi? Moonshot’s model family in plain English](https://analyticsmadesimple.com/tutorials/what-kimi-is-moonshot-plain-english/) <sub>(Sep 25, 2026)</sub>- [What is Qwen?](https://analyticsmadesimple.com/tutorials/what-qwen-is-alibaba-model-family/) <sub>(Sep 24, 2026)</sub>- [When a full IDE agent is overkill](https://analyticsmadesimple.com/tutorials/gemini-coding-when-full-agent-overkill/) <sub>(Sep 24, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Llama sizes: laptop vs server](https://analyticsmadesimple.com/tutorials/llama-sizes-laptop-vs-server/) <sub>(Sep 28, 2026)</sub>- [License and can I use this at work?](https://analyticsmadesimple.com/tutorials/llama-license-can-i-use-this-at-work/) <sub>(Sep 27, 2026)</sub>- [What is GLM? Zhipu’s ChatGLM model family](https://analyticsmadesimple.com/tutorials/what-glm-is-zhipu-chatglm-family/) <sub>(Sep 26, 2026)</sub>- [What is Kimi? Moonshot’s model family in plain English](https://analyticsmadesimple.com/tutorials/what-kimi-is-moonshot-plain-english/) <sub>(Sep 25, 2026)</sub>- [What is Qwen?](https://analyticsmadesimple.com/tutorials/what-qwen-is-alibaba-model-family/) <sub>(Sep 24, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
