@@ -237,7 +237,7 @@ flowchart LR
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [First useful Llama tasks](https://analyticsmadesimple.com/tutorials/first-useful-llama-tasks/) <sub>(Sep 30, 2026)</sub>- [Hosted Llama chat vs self-host](https://analyticsmadesimple.com/tutorials/hosted-llama-chat-vs-self-host/) <sub>(Sep 29, 2026)</sub>- [Llama sizes: laptop vs server](https://analyticsmadesimple.com/tutorials/llama-sizes-laptop-vs-server/) <sub>(Sep 28, 2026)</sub>- [License and can I use this at work?](https://analyticsmadesimple.com/tutorials/llama-license-can-i-use-this-at-work/) <sub>(Sep 27, 2026)</sub>- [What is GLM? Zhipu’s ChatGLM model family](https://analyticsmadesimple.com/tutorials/what-glm-is-zhipu-chatglm-family/) <sub>(Sep 26, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Fine-tunes and community variants without the zoo](https://analyticsmadesimple.com/tutorials/llama-fine-tunes-community-variants/) <sub>(Oct 01, 2026)</sub>- [First useful Llama tasks](https://analyticsmadesimple.com/tutorials/first-useful-llama-tasks/) <sub>(Sep 30, 2026)</sub>- [Hosted Llama chat vs self-host](https://analyticsmadesimple.com/tutorials/hosted-llama-chat-vs-self-host/) <sub>(Sep 29, 2026)</sub>- [Llama sizes: laptop vs server](https://analyticsmadesimple.com/tutorials/llama-sizes-laptop-vs-server/) <sub>(Sep 28, 2026)</sub>- [License and can I use this at work?](https://analyticsmadesimple.com/tutorials/llama-license-can-i-use-this-at-work/) <sub>(Sep 27, 2026)</sub><!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
