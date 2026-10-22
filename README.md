@@ -146,6 +146,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white&label=XGBoost" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logoColor=white&label=Dask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -157,6 +158,7 @@ flowchart LR
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white&label=LangGraph" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white&label=MCP" />
@@ -256,12 +258,14 @@ flowchart LR
 | **[Data360 Financial Transaction Simulator](https://github.com/josers18/Salesforce-Data360-Financial-Transaction-Simulator)** <br/> `Python · Snowflake · Data Cloud` | Financial transaction simulator with overdraft prevention, balance tracking, and Salesforce Data Cloud / Snowflake integration. |
 | **[Salesforce](https://github.com/josers18/Salesforce)** <br/> `Python · ⭐ 5` | Long-running grab-bag of Salesforce-related code, snippets, and experiments — most-starred repo on this profile. |
 | **[JDO — Jose's Demo Org](https://github.com/josers18/JDO)** <br/> `Salesforce DX · Apex · LWC` | Assets and Salesforce DX projects for demo orgs: LWCs, Apex, flows, docs, and related demos. |
+| **[Image Utilities](https://github.com/josers18/Image_Utilities)** <br/> `Python · PyTorch · FastAPI · macOS` | On-device AI image studio for macOS — BiRefNet background removal and Real-ESRGAN 2×/4× super-resolution on Apple Silicon (MPS), plus batch resize, convert, and rename. |
 
 <details>
 <summary>📚 <b>Reference & Learning Repos</b> (click to expand)</summary>
 
 | Project | What it does |
 |---|---|
+| **[Analytics Made Simple Tutorials](https://github.com/josers18/analytics-made-simple-tutorials)** | Companion code for [analyticsmadesimple.com](https://analyticsmadesimple.com) — 14-part SQL curriculum, Pandas analytics, ChatGPT / Gemini / Grok / Claude Code workflows, and RAG notebooks. |
 | **[LangChain-Concepts](https://github.com/josers18/LangChain-Concepts)** | Reference guide for building LLM apps with LangChain — prompt templates, LCEL chains, agents, tools, RAG pipelines. |
 | **[OpenAI-API-Tutorial](https://github.com/josers18/OpenAI-API-Tutorial)** | Reference guide for the OpenAI API, Hugging Face Transformers, embeddings, semantic search, ChromaDB, and Pinecone. |
 | **[Python-Data-Structures](https://github.com/josers18/Python-Data-Structures)** | Personal reference for Python DS&A — Big O, linked lists, stacks, queues, trees, graphs, sorting, DP. |
