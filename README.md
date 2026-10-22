@@ -200,11 +200,11 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8" />
+  <img src="https://streak-stats.demolab.com?user=josers18&theme=tokyonight&hide_border=true&background=0D1117&stroke=29B5E8&ring=29B5E8&fire=FF6600&currStreakLabel=29B5E8&sideLabels=29B5E8&v=20261022" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=josers18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=29B5E8&line=29B5E8&point=FFFFFF&v=20261022" />
 </p>
 
 <!--
