@@ -230,10 +230,10 @@ flowchart LR
 
 | Article | Date |
 |---|---|
-| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://analyticsmadesimple.com/key-terms/data-clean-rooms/) | Jan 2024 |
-| [Data Governance 101](https://analyticsmadesimple.com/key-terms/data-governance/) | Nov 2023 |
-| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://analyticsmadesimple.com/key-terms/etl-vs-elt-beyond-choosing-your-data-integration-approach/) | Sep 2023 |
-| [Getting Up to Speed on Vector Databases](https://analyticsmadesimple.com/data-engineering/getting-up-to-speed-on-vector-databases/) | Sep 2023 |
+| [How to keep an AI agent from running away, leaking secrets, or deleting files](https://analyticsmadesimple.com/tutorials/safety-runaway-loops-secrets-and-destructive-commands/) | Oct 2026 |
+| [What is a semantic layer? One place to define your business metrics](https://analyticsmadesimple.com/key-terms/what-is-a-semantic-layer/) | Aug 2026 |
+| [Data governance 101: rules people can actually use](https://analyticsmadesimple.com/key-terms/data-governance/) | Nov 2023 |
+| [Vector databases: search by meaning, not just keywords](https://analyticsmadesimple.com/data-engineering/getting-up-to-speed-on-vector-databases/) | Sep 2023 |
 
 ### 📰 Latest from analyticsmadesimple.com
 
