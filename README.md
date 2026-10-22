@@ -224,7 +224,7 @@ flowchart LR
 
 ## ✍️ Writing & Articles
 
-> Read on [analyticsmadesimple.com](https://analyticsmadesimple.com) · Originally published on [LinkedIn](https://www.linkedin.com/in/jsifontes/recent-activity/articles/)
+> Read on [analyticsmadesimple.com](https://analyticsmadesimple.com)
 
 ### 📌 Featured Articles
 
@@ -245,8 +245,6 @@ flowchart LR
 - [Why AI document search gives wrong answers, and how to find the cause](https://analyticsmadesimple.com/tutorials/rag-failure-modes-stale-docs-wrong-neighbor/) <sub>· Oct 21, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
-
-> _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 
 ---
 
