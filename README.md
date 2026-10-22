@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to work out what an AI task really costs, and when a cheaper model is good enough](https://analyticsmadesimple.com/tutorials/ai-task-cost-per-task-cheaper-model-good-enough/) <sub>· Oct 22, 2026</sub>
+- [How to keep an AI agent from running away, leaking secrets, or deleting files](https://analyticsmadesimple.com/tutorials/safety-runaway-loops-secrets-and-destructive-commands/) <sub>· Oct 22, 2026</sub>
 - [Grok Bot tutorial: how to give xAI’s AI coworker real work and keep it safe](https://analyticsmadesimple.com/tutorials/grokbot-from-zero-autonomous-digital-coworkers-xai-cursor/) <sub>· Oct 22, 2026</sub>
 - [How to tell whether ChatGPT ads are working: attribution and lift tests in plain English](https://analyticsmadesimple.com/tutorials/chatgpt-ads-measurement-attribution-lift-test/) <sub>· Oct 21, 2026</sub>
 - [Why AI document search gives wrong answers, and how to find the cause](https://analyticsmadesimple.com/tutorials/rag-failure-modes-stale-docs-wrong-neighbor/) <sub>· Oct 21, 2026</sub>
-- [How to handle lists in Make automations: routers, iterators, and aggregators](https://analyticsmadesimple.com/tutorials/make-integromat-visual-routers-iterators-aggregators/) <sub>· Oct 21, 2026</sub>
-- [The new X Subscription explained: which plan you need for Grok, Grok Bot and Cursor](https://analyticsmadesimple.com/tutorials/x-subscription-explained-grok-cursor-plans/) <sub>· Oct 20, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
