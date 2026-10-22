@@ -224,22 +224,27 @@ flowchart LR
 
 ## ✍️ Writing & Articles
 
-> Published on [LinkedIn](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) · More at [analyticsmadesimple.com](https://analyticsmadesimple.com)
+> Read on [analyticsmadesimple.com](https://analyticsmadesimple.com) · Originally published on [LinkedIn](https://www.linkedin.com/in/jsifontes/recent-activity/articles/)
 
 ### 📌 Featured Articles
 
-<!-- TODO: replace these LinkedIn-articles-tab URLs with the real article permalinks -->
-
 | Article | Date |
 |---|---|
-| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Jan 2024 |
-| [Data Governance 101](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Nov 2023 |
-| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Sep 2023 |
-| [Getting Up to Speed on Vector Databases](https://www.linkedin.com/in/jsifontes/recent-activity/articles/) | Sep 2023 |
+| [Data Clean Rooms: Navigating the Future of Privacy and Collaboration](https://analyticsmadesimple.com/key-terms/data-clean-rooms/) | Jan 2024 |
+| [Data Governance 101](https://analyticsmadesimple.com/key-terms/data-governance/) | Nov 2023 |
+| [ETL vs ELT & Beyond: Choosing Your Data Integration Approach](https://analyticsmadesimple.com/key-terms/etl-vs-elt-beyond-choosing-your-data-integration-approach/) | Sep 2023 |
+| [Getting Up to Speed on Vector Databases](https://analyticsmadesimple.com/data-engineering/getting-up-to-speed-on-vector-databases/) | Sep 2023 |
 
 ### 📰 Latest from analyticsmadesimple.com
 
-<!-- BLOG-POST-LIST:START -->- [Grok Bot tutorial: how to give xAI’s AI coworker real work and keep it safe](https://analyticsmadesimple.com/tutorials/grokbot-from-zero-autonomous-digital-coworkers-xai-cursor/) <sub>(Oct 22, 2026)</sub>- [How to tell whether ChatGPT ads are working: attribution and lift tests in plain English](https://analyticsmadesimple.com/tutorials/chatgpt-ads-measurement-attribution-lift-test/) <sub>(Oct 21, 2026)</sub>- [Why AI document search gives wrong answers, and how to find the cause](https://analyticsmadesimple.com/tutorials/rag-failure-modes-stale-docs-wrong-neighbor/) <sub>(Oct 21, 2026)</sub>- [How to handle lists in Make automations: routers, iterators, and aggregators](https://analyticsmadesimple.com/tutorials/make-integromat-visual-routers-iterators-aggregators/) <sub>(Oct 21, 2026)</sub>- [The new X Subscription explained: which plan you need for Grok, Grok Bot and Cursor](https://analyticsmadesimple.com/tutorials/x-subscription-explained-grok-cursor-plans/) <sub>(Oct 20, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Grok Bot tutorial: how to give xAI’s AI coworker real work and keep it safe](https://analyticsmadesimple.com/tutorials/grokbot-from-zero-autonomous-digital-coworkers-xai-cursor/) <sub>· Oct 22, 2026</sub>
+- [How to tell whether ChatGPT ads are working: attribution and lift tests in plain English](https://analyticsmadesimple.com/tutorials/chatgpt-ads-measurement-attribution-lift-test/) <sub>· Oct 21, 2026</sub>
+- [Why AI document search gives wrong answers, and how to find the cause](https://analyticsmadesimple.com/tutorials/rag-failure-modes-stale-docs-wrong-neighbor/) <sub>· Oct 21, 2026</sub>
+- [How to handle lists in Make automations: routers, iterators, and aggregators](https://analyticsmadesimple.com/tutorials/make-integromat-visual-routers-iterators-aggregators/) <sub>· Oct 21, 2026</sub>
+- [The new X Subscription explained: which plan you need for Grok, Grok Bot and Cursor](https://analyticsmadesimple.com/tutorials/x-subscription-explained-grok-cursor-plans/) <sub>· Oct 20, 2026</sub>
+
+<!-- BLOG-POST-LIST:END -->
 
 > _Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow)._
 

@@ -21,6 +21,9 @@ jobs:
         with:
           feed_list: "https://analyticsmadesimple.com/feed/"
           max_post_count: 5
-          template: "- [$title]($url) <sub>($date)</sub>"
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          # A custom template turns off the newlines around the markers; without
+          # them the list lands on the START-comment line and renders as raw text.
+          tag_post_pre_newline: true
           date_format: "mmm dd, yyyy"
           commit_message: "chore(readme): refresh latest blog posts"
