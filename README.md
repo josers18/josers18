@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How your AI agent will sign in to shops and banks: the Personal Agent Protocol explained](https://analyticsmadesimple.com/tutorials/personal-agent-protocol-poppy-ai-agent-sign-in-explained/) <sub>· Oct 24, 2026</sub>
+- [When to use a plain AI chat instead of an AI agent](https://analyticsmadesimple.com/tutorials/when-a-plain-chat-window-is-enough/) <sub>· Oct 24, 2026</sub>
+- [How to use voice dictation and AI speech tools for everyday work](https://analyticsmadesimple.com/tutorials/voice-dictation-speech-interaction-everyday-work/) <sub>· Oct 24, 2026</sub>
 - [Google Foresight: can an offline AI note taker on your Mac replace Granola or Otter?](https://analyticsmadesimple.com/tutorials/google-foresight-offline-ai-meeting-notes-mac-granola-otter/) <sub>· Oct 23, 2026</sub>
 - [How to test the answers of a RAG chatbot, even if you’re not an engineer](https://analyticsmadesimple.com/tutorials/light-rag-evals-non-engineers-can-run/) <sub>· Oct 23, 2026</sub>
-- [n8n for beginners: run it yourself or use n8n Cloud?](https://analyticsmadesimple.com/tutorials/n8n-from-zero-self-hosted-vs-cloud/) <sub>· Oct 23, 2026</sub>
-- [How to work out what an AI task really costs, and when a cheaper model is good enough](https://analyticsmadesimple.com/tutorials/ai-task-cost-per-task-cheaper-model-good-enough/) <sub>· Oct 22, 2026</sub>
-- [How to keep an AI agent from running away, leaking secrets, or deleting files](https://analyticsmadesimple.com/tutorials/safety-runaway-loops-secrets-and-destructive-commands/) <sub>· Oct 22, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
