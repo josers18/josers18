@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
-- [How your AI agent will sign in to shops and banks: the Personal Agent Protocol explained](https://analyticsmadesimple.com/tutorials/personal-agent-protocol-poppy-ai-agent-sign-in-explained/) <sub>· Oct 24, 2026</sub>
-- [When to use a plain AI chat instead of an AI agent](https://analyticsmadesimple.com/tutorials/when-a-plain-chat-window-is-enough/) <sub>· Oct 24, 2026</sub>
-- [How to use voice dictation and AI speech tools for everyday work](https://analyticsmadesimple.com/tutorials/voice-dictation-speech-interaction-everyday-work/) <sub>· Oct 24, 2026</sub>
-- [Google Foresight: can an offline AI note taker on your Mac replace Granola or Otter?](https://analyticsmadesimple.com/tutorials/google-foresight-offline-ai-meeting-notes-mac-granola-otter/) <sub>· Oct 23, 2026</sub>
-- [How to test the answers of a RAG chatbot, even if you’re not an engineer](https://analyticsmadesimple.com/tutorials/light-rag-evals-non-engineers-can-run/) <sub>· Oct 23, 2026</sub>
+- [Power BI Copilot vs Tableau Agent vs Databricks Genie: which AI data assistant fits you?](https://analyticsmadesimple.com/tutorials/power-bi-copilot-vs-tableau-agent-vs-databricks-genie/) <sub>· Oct 26, 2026</sub>
+- [What hardware do you need to run AI on your own computer?](https://analyticsmadesimple.com/tutorials/local-ai-hardware-reality-check-ram-gpu-apple-silicon-heat/) <sub>· Oct 26, 2026</sub>
+- [How to turn meeting transcripts into action items you can trust](https://analyticsmadesimple.com/tutorials/meeting-intelligence-transcripts-synthesis-action-verification/) <sub>· Oct 26, 2026</sub>
+- [Is AI search stealing your website traffic? How to check in Search Console and GA4](https://analyticsmadesimple.com/tutorials/ai-search-traffic-check-search-console-ga4/) <sub>· Oct 25, 2026</sub>
+- [How to give an AI your company’s knowledge: RAG, fine-tuning, or long context](https://analyticsmadesimple.com/tutorials/rag-vs-fine-tuning-vs-long-context-windows/) <sub>· Oct 25, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
