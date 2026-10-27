@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add AI to your automation workflows safely](https://analyticsmadesimple.com/tutorials/adding-ai-to-workflows-carefully-summarization-classification-guardrails/) <sub>· Oct 27, 2026</sub>
 - [Power BI Copilot vs Tableau Agent vs Databricks Genie: which AI data assistant fits you?](https://analyticsmadesimple.com/tutorials/power-bi-copilot-vs-tableau-agent-vs-databricks-genie/) <sub>· Oct 26, 2026</sub>
 - [What hardware do you need to run AI on your own computer?](https://analyticsmadesimple.com/tutorials/local-ai-hardware-reality-check-ram-gpu-apple-silicon-heat/) <sub>· Oct 26, 2026</sub>
 - [How to turn meeting transcripts into action items you can trust](https://analyticsmadesimple.com/tutorials/meeting-intelligence-transcripts-synthesis-action-verification/) <sub>· Oct 26, 2026</sub>
 - [Is AI search stealing your website traffic? How to check in Search Console and GA4](https://analyticsmadesimple.com/tutorials/ai-search-traffic-check-search-console-ga4/) <sub>· Oct 25, 2026</sub>
-- [How to give an AI your company’s knowledge: RAG, fine-tuning, or long context](https://analyticsmadesimple.com/tutorials/rag-vs-fine-tuning-vs-long-context-windows/) <sub>· Oct 25, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
