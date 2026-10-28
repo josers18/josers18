@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add AI to your automation workflows safely](https://analyticsmadesimple.com/tutorials/adding-ai-to-workflows-carefully-summarization-classification-guardrails/) <sub>· Oct 27, 2026</sub>
-- [Power BI Copilot vs Tableau Agent vs Databricks Genie: which AI data assistant fits you?](https://analyticsmadesimple.com/tutorials/power-bi-copilot-vs-tableau-agent-vs-databricks-genie/) <sub>· Oct 26, 2026</sub>
-- [What hardware do you need to run AI on your own computer?](https://analyticsmadesimple.com/tutorials/local-ai-hardware-reality-check-ram-gpu-apple-silicon-heat/) <sub>· Oct 26, 2026</sub>
-- [How to turn meeting transcripts into action items you can trust](https://analyticsmadesimple.com/tutorials/meeting-intelligence-transcripts-synthesis-action-verification/) <sub>· Oct 26, 2026</sub>
-- [Is AI search stealing your website traffic? How to check in Search Console and GA4](https://analyticsmadesimple.com/tutorials/ai-search-traffic-check-search-console-ga4/) <sub>· Oct 25, 2026</sub>
+- [What is AI model quantization? How smaller model files trade quality for size](https://analyticsmadesimple.com/tutorials/quantization-without-mysticism-gguf-bits-tradeoffs/) <sub>· Oct 28, 2026</sub>
+- [When a Paper Notebook Still Wins: The Boundaries of Everyday AI Assistants](https://analyticsmadesimple.com/tutorials/when-a-paper-notebook-still-wins/) <sub>· Oct 28, 2026</sub>
+- [How to run a free AI model that sorts tickets on your own computer with Hugging Face](https://analyticsmadesimple.com/tutorials/run-your-own-decision-model-transformers-serve/) <sub>· Oct 27, 2026</sub>
+- [What is Mistral AI? Its models, their licenses, and which ones you can use at work](https://analyticsmadesimple.com/tutorials/what-is-mistral-ai-models-licenses/) <sub>· Oct 27, 2026</sub>
+- [How to write a clear brief for your first AI video](https://analyticsmadesimple.com/tutorials/generative-video-prompting-brief-camera-motion-lighting/) <sub>· Oct 27, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
