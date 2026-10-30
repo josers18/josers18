@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How speech AI works: text to speech, speech to text, and voice cloning](https://analyticsmadesimple.com/tutorials/tts-stt-voice-cloning-speech-ai-plain-english/) <sub>· Oct 30, 2026</sub>
+- [How to run AI on your own computer with Ollama in one command](https://analyticsmadesimple.com/tutorials/easiest-path-ollama-one-command-local-ai/) <sub>· Oct 30, 2026</sub>
 - [Gemini 4 Argon, Google’s newest AI model: is it worth paying for Google AI Pro?](https://analyticsmadesimple.com/tutorials/gemini-4-argon-google-ai-pro-worth-it/) <sub>· Oct 29, 2026</sub>
 - [How to budget for AI video generation without overspending](https://analyticsmadesimple.com/tutorials/generative-video-cost-optimization-credit-economics-motion-brush/) <sub>· Oct 29, 2026</sub>
 - [How to keep passwords and access safe in your automation workflows](https://analyticsmadesimple.com/tutorials/workflow-security-secrets-management-oauth-scopes-credential-governance/) <sub>· Oct 29, 2026</sub>
-- [How to let Claude or ChatGPT read your company’s database without risking your data](https://analyticsmadesimple.com/tutorials/mcp-data-warehouse-read-only-ai-access/) <sub>· Oct 28, 2026</sub>
-- [What is AI model quantization? How smaller model files trade quality for size](https://analyticsmadesimple.com/tutorials/quantization-without-mysticism-gguf-bits-tradeoffs/) <sub>· Oct 28, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
