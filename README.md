@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepfakes and likeness rights: what you can legally generate with AI](https://analyticsmadesimple.com/tutorials/generative-video-rights-likeness-deepfakes-enterprise-policy/) <sub>· Oct 31, 2026</sub>
+- [When to Skip Automation Platforms: The Case for Vanilla Scripts, Cron, and Spreadsheets](https://analyticsmadesimple.com/tutorials/when-to-skip-automation-platforms-vanilla-scripts-cron-spreadsheets/) <sub>· Oct 31, 2026</sub>
+- [What AI skills are, and how to turn your best prompt into one you can reuse and share](https://analyticsmadesimple.com/tutorials/ai-skills-reusable-prompt-skill-md/) <sub>· Oct 30, 2026</sub>
 - [How speech AI works: text to speech, speech to text, and voice cloning](https://analyticsmadesimple.com/tutorials/tts-stt-voice-cloning-speech-ai-plain-english/) <sub>· Oct 30, 2026</sub>
 - [How to run AI on your own computer with Ollama in one command](https://analyticsmadesimple.com/tutorials/easiest-path-ollama-one-command-local-ai/) <sub>· Oct 30, 2026</sub>
-- [Gemini 4 Argon, Google’s newest AI model: is it worth paying for Google AI Pro?](https://analyticsmadesimple.com/tutorials/gemini-4-argon-google-ai-pro-worth-it/) <sub>· Oct 29, 2026</sub>
-- [How to budget for AI video generation without overspending](https://analyticsmadesimple.com/tutorials/generative-video-cost-optimization-credit-economics-motion-brush/) <sub>· Oct 29, 2026</sub>
-- [How to keep passwords and access safe in your automation workflows](https://analyticsmadesimple.com/tutorials/workflow-security-secrets-management-oauth-scopes-credential-governance/) <sub>· Oct 29, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
