@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyday ways to use speech AI, from reading text aloud to quick podcasts](https://analyticsmadesimple.com/tutorials/everyday-speech-ai-accessibility-drafts-podcasts/) <sub>· Nov 01, 2026</sub>
+- [How to run AI models on your computer with LM Studio](https://analyticsmadesimple.com/tutorials/lm-studio-and-friendly-guis-from-zero/) <sub>· Nov 01, 2026</sub>
+- [What DeepSeek’s new V4.1 Flash model costs next to Claude and ChatGPT, and when to use it](https://analyticsmadesimple.com/tutorials/deepseek-v4-1-flash-1017-cost-vs-claude-chatgpt/) <sub>· Oct 31, 2026</sub>
 - [Deepfakes and likeness rights: what you can legally generate with AI](https://analyticsmadesimple.com/tutorials/generative-video-rights-likeness-deepfakes-enterprise-policy/) <sub>· Oct 31, 2026</sub>
 - [When to Skip Automation Platforms: The Case for Vanilla Scripts, Cron, and Spreadsheets](https://analyticsmadesimple.com/tutorials/when-to-skip-automation-platforms-vanilla-scripts-cron-spreadsheets/) <sub>· Oct 31, 2026</sub>
-- [What AI skills are, and how to turn your best prompt into one you can reuse and share](https://analyticsmadesimple.com/tutorials/ai-skills-reusable-prompt-skill-md/) <sub>· Oct 30, 2026</sub>
-- [How speech AI works: text to speech, speech to text, and voice cloning](https://analyticsmadesimple.com/tutorials/tts-stt-voice-cloning-speech-ai-plain-english/) <sub>· Oct 30, 2026</sub>
-- [How to run AI on your own computer with Ollama in one command](https://analyticsmadesimple.com/tutorials/easiest-path-ollama-one-command-local-ai/) <sub>· Oct 30, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
