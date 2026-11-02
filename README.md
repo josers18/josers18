@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [What is WebMCP? How a new browser feature lets AI agents use websites](https://analyticsmadesimple.com/tutorials/what-is-webmcp-ai-agents-website-tools/) <sub>· Nov 02, 2026</sub>
+- [When real video footage still beats AI-generated video](https://analyticsmadesimple.com/tutorials/when-stock-video-or-phone-clip-still-wins/) <sub>· Nov 02, 2026</sub>
+- [How to make workflow automations reliable with retries and human approvals](https://analyticsmadesimple.com/tutorials/production-reliability-workflow-automation-retries-idempotency-human-approvals/) <sub>· Nov 02, 2026</sub>
+- [How to clean messy Excel data with Copilot’s Clean Data, and check its fixes](https://analyticsmadesimple.com/tutorials/excel-copilot-clean-data-check-fixes/) <sub>· Nov 01, 2026</sub>
 - [Everyday ways to use speech AI, from reading text aloud to quick podcasts](https://analyticsmadesimple.com/tutorials/everyday-speech-ai-accessibility-drafts-podcasts/) <sub>· Nov 01, 2026</sub>
-- [How to run AI models on your computer with LM Studio](https://analyticsmadesimple.com/tutorials/lm-studio-and-friendly-guis-from-zero/) <sub>· Nov 01, 2026</sub>
-- [What DeepSeek’s new V4.1 Flash model costs next to Claude and ChatGPT, and when to use it](https://analyticsmadesimple.com/tutorials/deepseek-v4-1-flash-1017-cost-vs-claude-chatgpt/) <sub>· Oct 31, 2026</sub>
-- [Deepfakes and likeness rights: what you can legally generate with AI](https://analyticsmadesimple.com/tutorials/generative-video-rights-likeness-deepfakes-enterprise-policy/) <sub>· Oct 31, 2026</sub>
-- [When to Skip Automation Platforms: The Case for Vanilla Scripts, Cron, and Spreadsheets](https://analyticsmadesimple.com/tutorials/when-to-skip-automation-platforms-vanilla-scripts-cron-spreadsheets/) <sub>· Oct 31, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
