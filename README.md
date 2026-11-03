@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a report with Excel canvas and Copilot, and check its charts before you share](https://analyticsmadesimple.com/tutorials/excel-canvas-copilot-report-check-charts/) <sub>· Nov 03, 2026</sub>
+- [Which speech AI tool to use: cloud services, local models, or voice cloning](https://analyticsmadesimple.com/tutorials/speech-ai-product-map-cloud-local-voice-cloning/) <sub>· Nov 03, 2026</sub>
+- [What is llama.cpp, and why do so many local AI apps use it?](https://analyticsmadesimple.com/tutorials/llamacpp-idea-the-engine-under-many-apps/) <sub>· Nov 03, 2026</sub>
 - [What is WebMCP? How a new browser feature lets AI agents use websites](https://analyticsmadesimple.com/tutorials/what-is-webmcp-ai-agents-website-tools/) <sub>· Nov 02, 2026</sub>
 - [When real video footage still beats AI-generated video](https://analyticsmadesimple.com/tutorials/when-stock-video-or-phone-clip-still-wins/) <sub>· Nov 02, 2026</sub>
-- [How to make workflow automations reliable with retries and human approvals](https://analyticsmadesimple.com/tutorials/production-reliability-workflow-automation-retries-idempotency-human-approvals/) <sub>· Nov 02, 2026</sub>
-- [How to clean messy Excel data with Copilot’s Clean Data, and check its fixes](https://analyticsmadesimple.com/tutorials/excel-copilot-clean-data-check-fixes/) <sub>· Nov 01, 2026</sub>
-- [Everyday ways to use speech AI, from reading text aloud to quick podcasts](https://analyticsmadesimple.com/tutorials/everyday-speech-ai-accessibility-drafts-podcasts/) <sub>· Nov 01, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
