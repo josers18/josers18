@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Claude Duet, and how do you use Anthropic’s new agent app?](https://analyticsmadesimple.com/tutorials/what-is-claude-duet-features-setup-how-to-use/) <sub>· Nov 04, 2026</sub>
+- [What is Qwen-Coder? Alibaba’s AI models for writing code](https://analyticsmadesimple.com/tutorials/qwen-code-agent-variants-plain-english/) <sub>· Nov 04, 2026</sub>
+- [How OCR and AI turn photos of paper documents into useful text](https://analyticsmadesimple.com/tutorials/photos-of-paper-to-useful-text-ocr-extraction/) <sub>· Nov 04, 2026</sub>
 - [How to build a report with Excel canvas and Copilot, and check its charts before you share](https://analyticsmadesimple.com/tutorials/excel-canvas-copilot-report-check-charts/) <sub>· Nov 03, 2026</sub>
 - [Which speech AI tool to use: cloud services, local models, or voice cloning](https://analyticsmadesimple.com/tutorials/speech-ai-product-map-cloud-local-voice-cloning/) <sub>· Nov 03, 2026</sub>
-- [What is llama.cpp, and why do so many local AI apps use it?](https://analyticsmadesimple.com/tutorials/llamacpp-idea-the-engine-under-many-apps/) <sub>· Nov 03, 2026</sub>
-- [What is WebMCP? How a new browser feature lets AI agents use websites](https://analyticsmadesimple.com/tutorials/what-is-webmcp-ai-agents-website-tools/) <sub>· Nov 02, 2026</sub>
-- [When real video footage still beats AI-generated video](https://analyticsmadesimple.com/tutorials/when-stock-video-or-phone-clip-still-wins/) <sub>· Nov 02, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
