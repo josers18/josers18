@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Flint? A free AI coding model you can run on your own computer](https://analyticsmadesimple.com/tutorials/what-is-flint-recursive-free-coding-model-run-locally/) <sub>· Nov 05, 2026</sub>
+- [Voice cloning scams: how to protect yourself and get consent right](https://analyticsmadesimple.com/tutorials/voice-cloning-ethics-consent-deepfake-defense/) <sub>· Nov 05, 2026</sub>
+- [Useful things to do with an AI model that runs offline on your computer](https://analyticsmadesimple.com/tutorials/first-useful-offline-tasks-notes-rewrite-private-docs/) <sub>· Nov 05, 2026</sub>
 - [What is Claude Duet, and how do you use Anthropic’s new agent app?](https://analyticsmadesimple.com/tutorials/what-is-claude-duet-features-setup-how-to-use/) <sub>· Nov 04, 2026</sub>
 - [What is Qwen-Coder? Alibaba’s AI models for writing code](https://analyticsmadesimple.com/tutorials/qwen-code-agent-variants-plain-english/) <sub>· Nov 04, 2026</sub>
-- [How OCR and AI turn photos of paper documents into useful text](https://analyticsmadesimple.com/tutorials/photos-of-paper-to-useful-text-ocr-extraction/) <sub>· Nov 04, 2026</sub>
-- [How to build a report with Excel canvas and Copilot, and check its charts before you share](https://analyticsmadesimple.com/tutorials/excel-canvas-copilot-report-check-charts/) <sub>· Nov 03, 2026</sub>
-- [Which speech AI tool to use: cloud services, local models, or voice cloning](https://analyticsmadesimple.com/tutorials/speech-ai-product-map-cloud-local-voice-cloning/) <sub>· Nov 03, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
