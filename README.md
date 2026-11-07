@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to keep local AI models updated without breaking your setup](https://analyticsmadesimple.com/tutorials/keeping-models-updated-without-breaking-your-setup/) <sub>· Nov 07, 2026</sub>
 - [How to hide a ChatGPT chat behind a PIN with Locked chats](https://analyticsmadesimple.com/tutorials/chatgpt-locked-chats-hide-chat-behind-pin/) <sub>· Nov 06, 2026</sub>
 - [Should you download Qwen or use Alibaba’s hosted service?](https://analyticsmadesimple.com/tutorials/qwen-open-weights-vs-hosted-plain-english/) <sub>· Nov 06, 2026</sub>
 - [AI vision models vs classic OCR: which to use for reading documents](https://analyticsmadesimple.com/tutorials/llm-vision-vs-classic-ocr-comparison/) <sub>· Nov 06, 2026</sub>
 - [What is Flint? A free AI coding model you can run on your own computer](https://analyticsmadesimple.com/tutorials/what-is-flint-recursive-free-coding-model-run-locally/) <sub>· Nov 05, 2026</sub>
-- [Voice cloning scams: how to protect yourself and get consent right](https://analyticsmadesimple.com/tutorials/voice-cloning-ethics-consent-deepfake-defense/) <sub>· Nov 05, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
