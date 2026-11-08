@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to test Kimi K3.1 Pro on a long document before you trust it](https://analyticsmadesimple.com/tutorials/kimi-k3-1-pro-test-long-document-plans-cost/) <sub>· Nov 07, 2026</sub>
+- [How to fix common quality problems in AI-generated voices](https://analyticsmadesimple.com/tutorials/voice-ai-quality-accents-noise-uncanny-valley/) <sub>· Nov 07, 2026</sub>
 - [How to keep local AI models updated without breaking your setup](https://analyticsmadesimple.com/tutorials/keeping-models-updated-without-breaking-your-setup/) <sub>· Nov 07, 2026</sub>
 - [How to hide a ChatGPT chat behind a PIN with Locked chats](https://analyticsmadesimple.com/tutorials/chatgpt-locked-chats-hide-chat-behind-pin/) <sub>· Nov 06, 2026</sub>
 - [Should you download Qwen or use Alibaba’s hosted service?](https://analyticsmadesimple.com/tutorials/qwen-open-weights-vs-hosted-plain-english/) <sub>· Nov 06, 2026</sub>
-- [AI vision models vs classic OCR: which to use for reading documents](https://analyticsmadesimple.com/tutorials/llm-vision-vs-classic-ocr-comparison/) <sub>· Nov 06, 2026</sub>
-- [What is Flint? A free AI coding model you can run on your own computer](https://analyticsmadesimple.com/tutorials/what-is-flint-recursive-free-coding-model-run-locally/) <sub>· Nov 05, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
