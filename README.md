@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [When to choose Qwen over Claude, ChatGPT, or Llama](https://analyticsmadesimple.com/tutorials/when-qwen-fits-vs-claude-chatgpt-llama/) <sub>· Nov 09, 2026</sub>
+- [How to get clean text out of PDFs and scanned documents with AI](https://analyticsmadesimple.com/tutorials/document-ai-pipelines-for-pdfs-and-scans/) <sub>· Nov 09, 2026</sub>
+- [How your company can use Mistral Large 4 now that its weights are free to download](https://analyticsmadesimple.com/tutorials/mistral-large-4-open-weight-licence-cost/) <sub>· Nov 09, 2026</sub>
+- [How to tell whether OpenAI’s cheaper GPT-6.1 Terra model is good enough for your work](https://analyticsmadesimple.com/tutorials/gpt-6-1-terra-cost-good-enough-test/) <sub>· Nov 08, 2026</sub>
 - [How to test Kimi K3.1 Pro on a long document before you trust it](https://analyticsmadesimple.com/tutorials/kimi-k3-1-pro-test-long-document-plans-cost/) <sub>· Nov 07, 2026</sub>
-- [How to fix common quality problems in AI-generated voices](https://analyticsmadesimple.com/tutorials/voice-ai-quality-accents-noise-uncanny-valley/) <sub>· Nov 07, 2026</sub>
-- [How to keep local AI models updated without breaking your setup](https://analyticsmadesimple.com/tutorials/keeping-models-updated-without-breaking-your-setup/) <sub>· Nov 07, 2026</sub>
-- [How to hide a ChatGPT chat behind a PIN with Locked chats](https://analyticsmadesimple.com/tutorials/chatgpt-locked-chats-hide-chat-behind-pin/) <sub>· Nov 06, 2026</sub>
-- [Should you download Qwen or use Alibaba’s hosted service?](https://analyticsmadesimple.com/tutorials/qwen-open-weights-vs-hosted-plain-english/) <sub>· Nov 06, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
