@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to check the web sources Gemini cites when it fills your Google Sheet](https://analyticsmadesimple.com/tutorials/fill-with-gemini-google-sheets-check-sources/) <sub>· Nov 10, 2026</sub>
+- [When to use a human voice instead of an AI voice in audio production](https://analyticsmadesimple.com/tutorials/when-a-human-voice-is-required-audio-production/) <sub>· Nov 10, 2026</sub>
+- [When a $20 ChatGPT or Claude subscription beats running AI on your own computer](https://analyticsmadesimple.com/tutorials/when-local-is-worse-than-a-20-chat-subscription/) <sub>· Nov 10, 2026</sub>
 - [When to choose Qwen over Claude, ChatGPT, or Llama](https://analyticsmadesimple.com/tutorials/when-qwen-fits-vs-claude-chatgpt-llama/) <sub>· Nov 09, 2026</sub>
 - [How to get clean text out of PDFs and scanned documents with AI](https://analyticsmadesimple.com/tutorials/document-ai-pipelines-for-pdfs-and-scans/) <sub>· Nov 09, 2026</sub>
-- [How your company can use Mistral Large 4 now that its weights are free to download](https://analyticsmadesimple.com/tutorials/mistral-large-4-open-weight-licence-cost/) <sub>· Nov 09, 2026</sub>
-- [How to tell whether OpenAI’s cheaper GPT-6.1 Terra model is good enough for your work](https://analyticsmadesimple.com/tutorials/gpt-6-1-terra-cost-good-enough-test/) <sub>· Nov 08, 2026</sub>
-- [How to test Kimi K3.1 Pro on a long document before you trust it](https://analyticsmadesimple.com/tutorials/kimi-k3-1-pro-test-long-document-plans-cost/) <sub>· Nov 07, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
