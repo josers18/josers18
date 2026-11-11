@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to turn a monthly Excel report into a Copilot skill and test it before you trust it](https://analyticsmadesimple.com/tutorials/excel-copilot-skill-builder-monthly-report-test/) <sub>· Nov 11, 2026</sub>
 - [How to check the web sources Gemini cites when it fills your Google Sheet](https://analyticsmadesimple.com/tutorials/fill-with-gemini-google-sheets-check-sources/) <sub>· Nov 10, 2026</sub>
 - [When to use a human voice instead of an AI voice in audio production](https://analyticsmadesimple.com/tutorials/when-a-human-voice-is-required-audio-production/) <sub>· Nov 10, 2026</sub>
 - [When a $20 ChatGPT or Claude subscription beats running AI on your own computer](https://analyticsmadesimple.com/tutorials/when-local-is-worse-than-a-20-chat-subscription/) <sub>· Nov 10, 2026</sub>
 - [When to choose Qwen over Claude, ChatGPT, or Llama](https://analyticsmadesimple.com/tutorials/when-qwen-fits-vs-claude-chatgpt-llama/) <sub>· Nov 09, 2026</sub>
-- [How to get clean text out of PDFs and scanned documents with AI](https://analyticsmadesimple.com/tutorials/document-ai-pipelines-for-pdfs-and-scans/) <sub>· Nov 09, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
