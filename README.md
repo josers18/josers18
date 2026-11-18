@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [What do free Gemini users get from Gemini 4 Hydrogen, and is Google AI Plus worth it?](https://analyticsmadesimple.com/tutorials/gemini-4-hydrogen-free-vs-google-ai-plus/) <sub>· Nov 18, 2026</sub>
+- [How to tell who posted an AI model on Hugging Face before you download it](https://analyticsmadesimple.com/tutorials/navigating-hugging-face-hub-accounts-organizations-collections/) <sub>· Nov 18, 2026</sub>
 - [How much does Claude Fable 5.2 cost, and should you switch to it?](https://analyticsmadesimple.com/tutorials/claude-fable-5-2-price-switch-from-fable-5-1/) <sub>· Nov 17, 2026</sub>
 - [Gemini Decision 1 explained: Google’s AI model that scores answers instead of writing them](https://analyticsmadesimple.com/tutorials/gemini-decision-1-decisions-api-explained/) <sub>· Nov 16, 2026</sub>
 - [How to extract text from PDFs on your own computer with Docling](https://analyticsmadesimple.com/tutorials/docling-open-extraction-stacks-pdf-parsing/) <sub>· Nov 16, 2026</sub>
-- [Can VoiceStudio, a free app on your computer, replace ElevenLabs for voice-overs?](https://analyticsmadesimple.com/tutorials/voicestudio-free-local-elevenlabs-alternative/) <sub>· Nov 12, 2026</sub>
-- [How to turn a monthly Excel report into a Copilot skill and test it before you trust it](https://analyticsmadesimple.com/tutorials/excel-copilot-skill-builder-monthly-report-test/) <sub>· Nov 11, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
