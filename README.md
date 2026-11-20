@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to claim your business in ChatGPT and read its Business Hub insights](https://analyticsmadesimple.com/tutorials/claim-business-chatgpt-business-hub-insights/) <sub>· Nov 20, 2026</sub>
+- [How much can Kimi really read at once? Long documents explained](https://analyticsmadesimple.com/tutorials/kimi-long-context-windows-without-mythology/) <sub>· Nov 20, 2026</sub>
 - [What does Claude Meetings do in a Google Meet call, and what should you check first?](https://analyticsmadesimple.com/tutorials/claude-meetings-google-meet-what-to-check/) <sub>· Nov 19, 2026</sub>
 - [What do free Gemini users get from Gemini 4 Hydrogen, and is Google AI Plus worth it?](https://analyticsmadesimple.com/tutorials/gemini-4-hydrogen-free-vs-google-ai-plus/) <sub>· Nov 18, 2026</sub>
 - [How to tell who posted an AI model on Hugging Face before you download it](https://analyticsmadesimple.com/tutorials/navigating-hugging-face-hub-accounts-organizations-collections/) <sub>· Nov 18, 2026</sub>
-- [How much does Claude Fable 5.2 cost, and should you switch to it?](https://analyticsmadesimple.com/tutorials/claude-fable-5-2-price-switch-from-fable-5-1/) <sub>· Nov 17, 2026</sub>
-- [Gemini Decision 1 explained: Google’s AI model that scores answers instead of writing them](https://analyticsmadesimple.com/tutorials/gemini-decision-1-decisions-api-explained/) <sub>· Nov 16, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
