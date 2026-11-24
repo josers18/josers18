@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ask Claude questions about your Google Analytics data with Google’s free MCP server](https://analyticsmadesimple.com/analytics/claude-google-analytics-mcp-server-setup/) <sub>· Nov 24, 2026</sub>
 - [How to get ChatGPT or Claude to teach you SQL by asking you questions](https://analyticsmadesimple.com/tutorials/chatgpt-claude-teach-sql-socratic-tutor-skill/) <sub>· Nov 23, 2026</sub>
 - [What Is LlamaIndex? The Data Framework for Connecting LLMs to Your Files](https://analyticsmadesimple.com/tutorials/what-llamaindex-is-data-framework-not-a-chatbot/) <sub>· Nov 23, 2026</sub>
 - [How to see your real readers in GA4 when bots from Singapore and China flood your numbers](https://analyticsmadesimple.com/analytics/ga4-bot-traffic-singapore-china-real-readers/) <sub>· Nov 22, 2026</sub>
 - [How do you build a spreadsheet with Claude Sheets and check the formulas it writes?](https://analyticsmadesimple.com/tutorials/claude-sheets-build-spreadsheet-check-formulas/) <sub>· Nov 21, 2026</sub>
-- [How to claim your business in ChatGPT and read its Business Hub insights](https://analyticsmadesimple.com/tutorials/claim-business-chatgpt-business-hub-insights/) <sub>· Nov 20, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
