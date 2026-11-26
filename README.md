@@ -238,11 +238,11 @@ flowchart LR
 ### 📰 Latest from analyticsmadesimple.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Mirage, a free 22 MB AI model, read receipts as well as ChatGPT?](https://analyticsmadesimple.com/tutorials/mirage-free-tiny-vision-model-receipts-vs-chatgpt/) <sub>· Nov 26, 2026</sub>
 - [How do you reconcile an account with Copilot in Excel, and what do you still check?](https://analyticsmadesimple.com/tutorials/copilot-excel-reconciliation-accounting-skill/) <sub>· Nov 25, 2026</sub>
 - [How to extract tables, invoices, and form fields from documents with AI](https://analyticsmadesimple.com/tutorials/extracting-tables-invoices-structured-fields/) <sub>· Nov 25, 2026</sub>
 - [How to ask Claude questions about your Google Analytics data with Google’s free MCP server](https://analyticsmadesimple.com/analytics/claude-google-analytics-mcp-server-setup/) <sub>· Nov 24, 2026</sub>
 - [How to get ChatGPT or Claude to teach you SQL by asking you questions](https://analyticsmadesimple.com/tutorials/chatgpt-claude-teach-sql-socratic-tutor-skill/) <sub>· Nov 23, 2026</sub>
-- [What Is LlamaIndex? The Data Framework for Connecting LLMs to Your Files](https://analyticsmadesimple.com/tutorials/what-llamaindex-is-data-framework-not-a-chatbot/) <sub>· Nov 23, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
